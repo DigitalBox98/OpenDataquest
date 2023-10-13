@@ -1,0 +1,60 @@
+v0.8					/\\\ Open DataQuest ///\																				
+																									
+																									
+																									
+																									
+			Quest Name		Step Number (A=Active/I=Inactive)	A	A	A	A	A	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I
+			Clear the Path		6	Step 1	Step 2	Step 3	Step 4	Step 5	Step 6	Step 7	Step 8	Step 9	Step 10	Step 11	Step 12	Step 13	Step 14	Step 15	Step 16	Step 17	Step 18	Step 19	Step 20
+			Start NPC/Object (Region)		Step Type	Kill	Kill	Kill	Kill	Kill	InteractFinish														
+			Captain Giberun (The Hills of Claret)		Source Name ; Region	Captain Giberun (The Hills of Claret)	zephyr nymph (The Hills of Claret)	zephyr nymph (The Hills of Claret)	zephyr nymph (The Hills of Claret)	zephyr nymph (The Hills of Claret)	zephyr nymph (The Hills of Claret)														
+			Start Type		Target Name ; Region	zephyr nymph (The Hills of Claret)	zephyr nymph (The Hills of Claret)	zephyr nymph (The Hills of Claret)	zephyr nymph (The Hills of Claret)	zephyr nymph (The Hills of Claret)	Captain Giberun (The Hills of Claret)														
+			RewardQuest		Step Item Template				sealed_love_poem																
+			Description		Collect Item Template						sealed_love_poem														
+			Clear the path over the marsh to Thidranki. Kill at least 5 zephyr nymphs and return to Captain Giberun.		Source Text	I’m glad to see you <Player>. We’ve been running supplies back and forth to Caer Claret for some time now. The siege fairs well for us, but we ve run into problems with the zephir nymphs. Those fighty little creatures are intent on stealing and looting our caravans. <Player> can I task you with clearing the path for our caravans to Claret ? 	Rhedoc says, "Don't think that he wouldn't! Since his wife passed away, Gwyneth is everything to him. He makes her stay upstairs when the apprentices are around, and with good reason. Imagine what it would be like if every apprentice lost his [heart] to her."\nRhedoc flashes an awkward smile.	Rhedoc says, "I can't approach her directly, but I've written a poem to express my feelings to her. The only problem is that I haven't figured out a way to deliver it anonymously. I want her to read it and know who I am, but I'm afraid she won't like it, or me. I'll gladly pay you if you would be willing to deliver it for me."\n\nWill you [help] Rhedoc win Gwyneth's heart?	Rhedoc says, "I've seen her walking with him in the evening. He's one of the most promising apprentice weaponsmiths and the son of one of the other tradeskill Guildmasters. I don't know if he's courting her, but I wouldn't be surprised. If you see Daemyr, please don't mention my name. It's bad enough that he and the other apprentice weapon- and armorsmiths tease me for my choice of profession. 'What's the matter, are you too weak to lift a hammer?' they say. Sometimes they ask if my embroidery is the secret weapon that will give Hibernia the edge in this miserable war. Anyway, thank you again for agreeing to help me. Please return to me after you have delivered the [poem]."																
+			Accept Text		Advance Text	Gwyneth	heart	help	poem	man	know														
+			end of me		Step Text	Clear the path over the marsh to Caer Claret. Kill at least 5 zephyr nymphs in the Hills of Claret and return to Captain Giberun.	Kill 4 remaining zephyr nymphs in the Hills of Claret.	Kill 3 remaining zephyr nymphs in the Hills of Claret.	Kill 2 remaining zephyr nymphs in the Hills of Claret.	Kill 1 remaining zephyr nymph in the Hills of Claret.	Go back to Captain Giberun to retrieve your rewards.														
+			Finish Text																						
+			Thank you <Player>. Accept this coin and experience as reward for your hard work here today.		Target Text					You hand Gwyneth the poem and she glances at the seal, not recognizing it. She eagerly unfolds the poem, reading quickly. As her eyes move down the page, the corners of her mouth begin to fall. She does not quite frown, but it is clear that she had different expectations. Gwyneth chuckles nervously when she reads the last of the text.\nGwyneth says, "Thank you...I think. I appreciate the sentiment, but the poem is simply horrible. I don't mean to offend your employer, but I hope he didn't think he'd win my affection with this. He seems to be quite a desperate [man], or did Daemyr put you up to this?"	wyneth says, "I can't think of who might have sent such a thing. Most would-be suitors have the sense to identify themselves, but I can understand why the author of this, er, work might want to remain anonymous. Is it someone that I [know]?"														
+			Level Min																						
+			1		Money	12679	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+			Max		XP	80000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+			50		CLXP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+			Max count		RP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+			99		BP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+																									
+																									
+			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
+					Optional reward																				
+			Class Type / Script 		Final reward																				
+																									
+			Timestamp																						
+			2023-10-13 23:42:10	2023-10-13 23:42:10																					
+			Start Text																						
+																									
+																									
+			Classes																						
+																									
+	Albion		Midgard 		Hibernia																				
+	Armsman		Berserker		Animist																				
+	Cabalist		Bonedancer		Bainshee																				
+	Cleric		Healer		Bard																				
+	Friar		Hunter		Blademaster																				
+	Heretic		Runemaster		Champion																				
+	Infiltrator		Savage		Druid																				
+	Mercenary		Shadowblade		Eldritch																				
+	Minstrel		Shaman		Enchanter																				
+	Necromancer		Skald		Hero																				
+	Paladin		Spiritmaster		Mentalist																				
+	Reaver		Thane		Nightshade																				
+	Scout		Valkyrie		Ranger																				
+	Sorcerer		Warlock		Valewalker																				
+	Theurgist		Warrior		Vampiir																				
+	Wizard		MaulerMid		Warden																				
+	MaulerAlb		Forester		MaulerHib																				
+	Acolyte		Guardian		Mystic																				
+	AlbionRogue		Mage		Naturalist																				
+	Disciple		Magician		Seer																				
+	Elementalist		MidgardRogue		Stalker																				
+	Fighter				Viking																				
+																									
+		x	ALL																						
