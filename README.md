@@ -1,7 +1,7 @@
 # OpenDataquest
 Welcome to the DOL dataquests sharing project 
 
-# How to use 
+# How to import an existing CSV quest  
 Open the Dataquest input tool "DataQuest_Input.ods" and activate macros : <br>
 ![image](https://github.com/DigitalBox98/OpenDataquest/assets/57635141/d30d4ba8-a62d-48c9-9570-c75f327b5ee3)
 <br>
@@ -33,6 +33,20 @@ Launch our DOL server or do a /mob refreshquests on the corresponding NPC if you
 ![image](https://github.com/DigitalBox98/OpenDataquest/assets/57635141/363b5bd5-ea83-465d-b575-abadc4b42e8b)
 <br>
 Your quest is now ready to be played/ tested !
+<br><br>
+
+# How to create a new quest 
+
+Open the file Quests_List.ods and do Ctrl+Click to go into the corresponding quest description on Allakhazam website.
+<br><br>
+Select your number of steps in the spreadsheet : <br>
+![image](https://github.com/DigitalBox98/OpenDataquest/assets/57635141/feeee5b3-2e48-4a79-8802-8a3fcd45d5ae)
+
+<br><br>
+
+Start to do copy/paste of the steps description from Allakhazam into your spreadsheet and create a Finish step.<br><br>
+
+Start testing and have fun !
 
 
 
