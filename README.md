@@ -42,8 +42,6 @@ Open the file Quests_List.ods and do Ctrl+Click on the quest's title to go into 
 Open the Dataquest input tool "DataQuest_Input.ods" and select your number of steps in the spreadsheet : <br>
 ![image](https://github.com/DigitalBox98/OpenDataquest/assets/57635141/feeee5b3-2e48-4a79-8802-8a3fcd45d5ae)
 
-<br><br>
-
 Start to do copy/paste of the steps description from Allakhazam into your spreadsheet and create a Finish step to finalize your quest.<br><br>
 
 Start testing and have fun !
