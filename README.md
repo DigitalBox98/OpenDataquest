@@ -44,7 +44,7 @@ Open the Dataquest input tool "DataQuest_Input.ods" and select your number of st
 
 Start to do copy/paste of the steps description from Allakhazam into your spreadsheet and create a Finish step to finalize your quest.<br><br>
 
-Start testing and have fun !
+Start testing and share your findinfs !
 
 
 
