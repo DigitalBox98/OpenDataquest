@@ -23,7 +23,7 @@ Go into the "SQL Datasheet Output" :<br>
 ![image](https://github.com/DigitalBox98/OpenDataquest/assets/57635141/31c5606c-2606-4b52-a3b2-24eb44a585a9)
 
 <br><br>
-Select the 2 cells on the right of Query 1 and Query 2 and copy the content into a SQL client connect to your DOL database then execute the SQL : <br>
+Select the 2 cells on the right of Query 1 and Query 2 and paste the content into a SQL client connect to your DOL database then execute the SQL : <br>
 ![image](https://github.com/DigitalBox98/OpenDataquest/assets/57635141/53b26f8e-10a0-4ca5-854c-c76350417b38)
 
 <br><br>
