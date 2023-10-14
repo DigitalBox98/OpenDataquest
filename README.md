@@ -37,7 +37,7 @@ Your quest is now ready to be played/ tested !
 
 # How to create a new quest 
 
-Open the file Quests_List.ods and do Ctrl+Click on the quest's title to go into the corresponding quest description on Allakhazam website.
+Open the file "Quests_List.ods" in the "samples" folder and do Ctrl+Click on the quest's title to go into the corresponding quest description on Allakhazam website.
 <br><br>
 Open the Dataquest input tool "DataQuest_Input.ods" and select your number of steps in the spreadsheet : <br>
 ![image](https://github.com/DigitalBox98/OpenDataquest/assets/57635141/feeee5b3-2e48-4a79-8802-8a3fcd45d5ae)
