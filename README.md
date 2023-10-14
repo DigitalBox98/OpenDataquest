@@ -29,7 +29,7 @@ Select the 2 cells on the right of Query 1 and Query 2 and paste the content int
 <br><br>
 The quest is now inserted/updated into your DOL database !<br><br>
 
-Launch our DOL server or do a /mob refreshquests on the corresponding NPC if your server is already started :<br>
+Launch your DOL server or - if server already started - do a /mob refreshquests on the corresponding NPC :<br>
 ![image](https://github.com/DigitalBox98/OpenDataquest/assets/57635141/363b5bd5-ea83-465d-b575-abadc4b42e8b)
 <br>
 Your quest is now ready to be played/ tested !
