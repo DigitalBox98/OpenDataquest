@@ -1,0 +1,62 @@
+V1.1					/\\\ Open DataQuest ///\																				
+																									
+																									
+																									
+																									
+			Quest Name		Step Number (A=Active/I=Inactive)	A	A	A	A	A	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I
+			Clear the Path		6	Step 1	Step 2	Step 3	Step 4	Step 5	Step 6	Step 7	Step 8	Step 9	Step 10	Step 11	Step 12	Step 13	Step 14	Step 15	Step 16	Step 17	Step 18	Step 19	Step 20
+			Start = NPC (Region)		Step Type	Kill	Kill	Kill	Kill	Kill	InteractFinish														
+			Captain Giberun (The Hills of Claret)		Source = NPC Name (Region)	Captain Giberun (The Hills of Claret)	zephyr nymph (The Hills of Claret)	zephyr nymph (The Hills of Claret)	zephyr nymph (The Hills of Claret)	zephyr nymph (The Hills of Claret)	zephyr nymph (The Hills of Claret)														
+			Or Object (Region)		Or Object Name (Region)																				
+					Target = NPC Name (Region)	zephyr nymph (The Hills of Claret)	zephyr nymph (The Hills of Claret)	zephyr nymph (The Hills of Claret)	zephyr nymph (The Hills of Claret)	zephyr nymph (The Hills of Claret)	Captain Giberun (The Hills of Claret)														
+			Start Type		Or Object Name (Region)																				
+			RewardQuest		Step Item Template																				
+			Description		Collect Item Template																				
+			Clear the path over the marsh to Thidranki. Kill at least 5 zephyr nymphs and return to Captain Giberun.		Source Text	I’m glad to see you <Player>. We’ve been running supplies back and forth to Caer Claret for some time now. The siege fairs well for us, but we ve run into problems with the zephir nymphs. Those fighty little creatures are intent on stealing and looting our caravans. <Player> can I task you with clearing the path for our caravans to Claret ? 																			
+			Accept Text		Advance Text																				
+					Step Text	Clear the path over the marsh to Caer Claret. Kill at least 5 zephyr nymphs in the Hills of Claret and return to Captain Giberun.	Kill 4 remaining zephyr nymphs in the Hills of Claret.	Kill 3 remaining zephyr nymphs in the Hills of Claret.	Kill 2 remaining zephyr nymphs in the Hills of Claret.	Kill 1 remaining zephyr nymphs in the Hills of Claret.	Go back to Captain Giberun to retrieve your rewards.														
+			Finish Text																						
+			Thank you <Player>. Accept this coin and experience as reward for your hard work here today.		Target Text	I was lucky enough to be chosen as one of his apprentice tailors and I'd hate to be sent away because I fell in love with his daughter, [Gwyneth].					I'm only an apprentice tailor, after all, and a Firbolg. I've come up with an idea, but I don't think I can go [through with it].														
+			Level Min																						
+			1		Money	12679	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+			Max		XP	80000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+			50		CLXP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+			Max count		RP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+			99		BP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+																									
+																									
+			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
+					Optional reward																				
+			Class Type / Script 		Final reward																				
+																									
+			Timestamp																						
+			2023-10-17 18:58:52	2023-10-17 18:58:52																					
+			Start Text																						
+																									
+																									
+			Classes																						
+																									
+	Albion		Midgard 		Hibernia																				
+	Armsman		Berserker		Animist																				
+	Cabalist		Bonedancer		Bainshee																				
+	Cleric		Healer		Bard																				
+	Friar		Hunter		Blademaster																				
+	Heretic		Runemaster		Champion																				
+	Infiltrator		Savage		Druid																				
+	Mercenary		Shadowblade		Eldritch																				
+	Minstrel		Shaman		Enchanter																				
+	Necromancer		Skald		Hero																				
+	Paladin		Spiritmaster		Mentalist																				
+	Reaver		Thane		Nightshade																				
+	Scout		Valkyrie		Ranger																				
+	Sorcerer		Warlock		Valewalker																				
+	Theurgist		Warrior		Vampiir																				
+	Wizard		MaulerMid		Warden																				
+	MaulerAlb		Forester		MaulerHib																				
+	Acolyte		Guardian		Mystic																				
+	AlbionRogue		Mage		Naturalist																				
+	Disciple		Magician		Seer																				
+	Elementalist		MidgardRogue		Stalker																				
+	Fighter				Viking																				
+																									
+		x	ALL																						
