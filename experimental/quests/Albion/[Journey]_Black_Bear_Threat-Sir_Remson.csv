@@ -1,0 +1,62 @@
+V1.1					/\\\ Open RewardQuest ///\																				
+																									
+																									
+																									
+																									
+			Quest Name		Goal Number (A=Active/I=Inactive)	A	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I
+			[Journey] Black Bear Threat		2	Goal 1	Goal 2	Goal 3	Goal 4	Goal 5	Goal 6	Goal 7	Goal 8	Goal 9	Goal 10	Goal 11	Goal 12	Goal 13	Goal 14	Goal 15	Goal 16	Goal 17	Goal 18	Goal 19	Goal 20
+			Start = NPC (Region)		Goal Type	Kill	InteractFinish																		
+			Sir Remson (Tutorial)		Step No	1	2																		
+			Or Object (Region)		Repeat No	3	1																		
+					Goal NPC Name (Region)	small black bear (Tutorial)	Lieutenant Cantren (Tutorial)																		
+			Start Type		Or Object Name (Region)																				
+			RewardQuest		Collect Item																				
+			Summary		Goal Journal Text	Exterminate 3 small black bears cub	Report to Lieutenant Cantren north of Sir Remson 																		
+			Kill 3 small black bears roaming the field northeast of Sir Remson, then report to Lieutenant Cantren nearby. If you have difficulty finding them, open your map. (NOTE: Type /map to open your Map Window.)		Goal Interact Text	During your travels across the realm you will encounter the opportunity to participate in Quests which you can locate by the icons which Willem here will display for you.\n\nLet us begin !\n\nNew User Journey Quest Icon Lesson Quest Icon\nClassic Quest Icon\nPending Quest Goal Icon\nQuest Completion Icon\n\nOr are you already [familiar] with these icons ?	I have been expecting you, <Player>! I see that you have been helping to protect Holtham against the malevolent creatures nearby.  We will require more of your assistance, brave <Race>, and for it we shall not fail to reward you. 																		
+			Accept Text		Advance Text																				
+					X Loc	35000	31000	0	0																
+			Finish Text		Y Loc	23000	24000	0	0																
+			Simple enough, is it not ?		Zone Id	Constantine's Sound	Constantine's Sound																		
+			Level Min																						
+			1		Money	0																			
+			Max		XP	40																			
+			10		CLXP	0																			
+			Max count		RP	0																			
+			99		BP	0																			
+			Story Text																						
+			You may have noticed several people throughout town with the Lesson Quest icon over their head. You should feel free to travel around town and speak with these individuals to see what you may learn.\n\nIf you are ready to become prepared for combat in our war torn land, however, I have a task for you. To the northeast of my location a population of small black bears have been slowly accumulating. These creatures have been attacking innocent townsfolk at random, and they must be cleared from the area.\n\nI have marked your map with the location of these creatures so that you may find them and reduce their numbers. When you have finished, I would like you to report to Lieutenant Cantren who can be found north of me, along the road to lower Holtham.																						
+			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
+			[Journey] Welcome to Albion		Final reward	Bright_Preserved_Studded_Vest																			
+			Class Type / Script 		Optional reward																				
+					Optional reward nb																				
+			Timestamp																						
+			2023-10-20 18:22:07	2023-10-20 18:22:07																					
+																									
+																									
+																									
+			Classes																						
+																									
+	Albion		Midgard 		Hibernia																				
+	Armsman		Berserker		Animist																				
+	Cabalist		Bonedancer		Bainshee																				
+	Cleric		Healer		Bard																				
+	Friar		Hunter		Blademaster																				
+	Heretic		Runemaster		Champion																				
+	Infiltrator		Savage		Druid																				
+	Mercenary		Shadowblade		Eldritch																				
+	Minstrel		Shaman		Enchanter																				
+	Necromancer		Skald		Hero																				
+	Paladin		Spiritmaster		Mentalist																				
+	Reaver		Thane		Nightshade																				
+	Scout		Valkyrie		Ranger																				
+	Sorcerer		Warlock		Valewalker																				
+	Theurgist		Warrior		Vampiir																				
+	Wizard		MaulerMid		Warden																				
+	MaulerAlb		Forester		MaulerHib																				
+	Acolyte		Guardian		Mystic																				
+	AlbionRogue		Mage		Naturalist																				
+	Disciple		Magician		Seer																				
+	Elementalist		MidgardRogue		Stalker																				
+	Fighter				Viking																				
+																									
+		x	ALL																						
