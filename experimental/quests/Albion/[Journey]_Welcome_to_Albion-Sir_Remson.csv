@@ -1,0 +1,62 @@
+V1.1					/\\\ Open RewardQuest ///\																				
+																									
+																									
+																									
+																									
+			Quest Name		Goal Number (A=Active/I=Inactive)	A	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I
+			[Journey] Welcome to Albion		2	Goal 1	Goal 2	Goal 3	Goal 4	Goal 5	Goal 6	Goal 7	Goal 8	Goal 9	Goal 10	Goal 11	Goal 12	Goal 13	Goal 14	Goal 15	Goal 16	Goal 17	Goal 18	Goal 19	Goal 20
+			Start = NPC (Region)		Goal Type	InteractWhisper	InteractFinish																		
+			Sir Remson (Tutorial)		Step No	1	2																		
+			Or Object (Region)		Repeat No	1	1																		
+					Goal NPC Name (Region)	Sir Remson (Tutorial)	Sir Remson (Tutorial)																		
+			Start Type		Or Object Name (Region)																				
+			RewardQuest		Collect Item																				
+			Summary		Goal Journal Text	Speak with Sir Remson to learn about Quest Icons.	Speak with Sir Remson to finish																		
+			Speak with Sir Remson again to learn about the various quest icons you will encounter in your aventures.		Goal Interact Text	During your travels across the realm you will encounter the opportunity to participate in Quests which you can locate by the icons which Willem here will display for you.\n\nLet us begin !\n\nNew User Journey Quest Icon Lesson Quest Icon\nClassic Quest Icon\nPending Quest Goal Icon\nQuest Completion Icon\n\nOr are you already [familiar] with these icons ?	Sir Remson says "You need a refresher course, don’t hesitate to stop by and speak with me again."																		
+			Accept Text		Advance Text		familiar																		
+					X Loc	0	0	0	0																
+			Finish Text		Y Loc	0	0	0	0																
+			Simple enough, is it not ?		Zone Id	Constantine's Sound	Constantine's Sound																		
+			Level Min																						
+			1		Money	0																			
+			Max		XP	40																			
+			10		CLXP	0																			
+			Max count		RP	0																			
+			99		BP	0																			
+			Story Text																						
+			Hail and well met, <Class>. I am Sir Remson, Mayor of this fine town of Holtham. You are here because you have chosen to swear fealty to the realm of Albion. We are locked in a bloody war againtst the loathsome forces of Hibernia and the barbaric hordes of Midgard.\n\nYou have come here to Constantine's Sound to begin your preparation for the battles ahead. You will want to begin by learning how to identify when there are quests or tasks available to you. These quests will be paramount in your advancement through your seasons and will provide you with the equipment and experience you will need to meet your foes on the field of battle.\n\nLet us not waste any more time, there is much to learn and even more to do.\n\nContinue speaking with me for a very quick explanation about the various icons you will encounter as your adventure through these lands.\n\nWelcome home, brave dude.																						
+			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
+					Final reward																				
+			Class Type / Script 		Optional reward																				
+					Optional reward nb																				
+			Timestamp																						
+			2023-10-20 17:48:21	2023-10-20 17:48:21																					
+																									
+																									
+																									
+			Classes																						
+																									
+	Albion		Midgard 		Hibernia																				
+	Armsman		Berserker		Animist																				
+	Cabalist		Bonedancer		Bainshee																				
+	Cleric		Healer		Bard																				
+	Friar		Hunter		Blademaster																				
+	Heretic		Runemaster		Champion																				
+	Infiltrator		Savage		Druid																				
+	Mercenary		Shadowblade		Eldritch																				
+	Minstrel		Shaman		Enchanter																				
+	Necromancer		Skald		Hero																				
+	Paladin		Spiritmaster		Mentalist																				
+	Reaver		Thane		Nightshade																				
+	Scout		Valkyrie		Ranger																				
+	Sorcerer		Warlock		Valewalker																				
+	Theurgist		Warrior		Vampiir																				
+	Wizard		MaulerMid		Warden																				
+	MaulerAlb		Forester		MaulerHib																				
+	Acolyte		Guardian		Mystic																				
+	AlbionRogue		Mage		Naturalist																				
+	Disciple		Magician		Seer																				
+	Elementalist		MidgardRogue		Stalker																				
+	Fighter				Viking																				
+																									
+		x	ALL																						
