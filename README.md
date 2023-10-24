@@ -40,12 +40,12 @@ Your quest is now ready to be played/ tested !
 
 Just do a copy of all your cells in the "Dataquest Input" tab.<br>
 Paste the content to a text editor like Notepad++.<br>
-Save your file to CSV (tab as a separator).<br><br>
+Save your file to CSV (tab as a separator).<br>
 
 The filename convention is :<br>
 &lt;Quest Name&gt;-&lt;NPC Name&gt;.csv  <br>
 
-(please replace " " by "_") <br>
+(please replace " " by "_") <br><br>
 
 
 # How to create a new quest 
