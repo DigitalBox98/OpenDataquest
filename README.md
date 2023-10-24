@@ -50,7 +50,8 @@ The version of the OpenDataQuest input tool if based on the below :<br>
 - a major version (v1.0, v1.1, ...) : in case the CSV structure must be changed<br>
 - a minor version (64, 65, ...) : corresponding to EveOfDarkness/db-public data release  = the Mob, Worldobject, ItemTemplate dropdown lists are based on this version<br><br>
 
-![image](https://github.com/DigitalBox98/OpenDataquest/assets/57635141/9c705f30-678c-4fba-96cd-e2cb395fe5d0)
+![image](https://github.com/DigitalBox98/OpenDataquest/assets/57635141/c18ea369-56af-4945-aaa7-8f5aeb8a1a99)
+
 <br>
 
 Start testing and share your findings !
