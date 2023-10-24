@@ -1,0 +1,62 @@
+V1.1.65					/\\\ Open RewardQuest ///\																				
+																									
+																									
+																									
+																									
+			Quest Name		Goal Number (A=Active/I=Inactive)	A	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I
+			[Journey] Earning Glory		2	Goal 1	Goal 2	Goal 3	Goal 4	Goal 5	Goal 6	Goal 7	Goal 8	Goal 9	Goal 10	Goal 11	Goal 12	Goal 13	Goal 14	Goal 15	Goal 16	Goal 17	Goal 18	Goal 19	Goal 20
+			Start = NPC (Region)		Goal Type	Kill	InteractFinish																		
+			Kilroy (Tutorial)		Step No	1	2																		
+			Or Object (Region)		Repeat No	3	1																		
+					Goal NPC Name (Region)	wild crouch (Tutorial)	Artigan (Tutorial)																		
+			Start Type		Or Object Name (Region)																				
+			RewardQuest		Collect Item																				
+			Summary		Goal Journal Text	Kill 3 Wild Crouch  in the field east of Chieftain Kilroy	Report to Artigan nortwhest of Chieftain Kilroy																		
+			Kill 3 Wild Crouch monsters roaming the field just east of Chieftain Kilroy, then report to Artigan nearby. If you have difficulty finding them, open your map to see where Kilroy has marked their location.\n(NOTE : type /map to open your map window.)		Goal Interact Text		I have been expecting you, <Player>! I see that you have been helping to protect Fintain against the malevolent creatures nearby.  We will require more of your assistance, brave <Race>, and for it we shall not fail to reward you. 																		
+			Accept Text		Advance Text																				
+					X Loc	34136	31782	0	0																
+			Finish Text		Y Loc	24695	26375	0	0																
+			I have been expecting you, <Player> ! I see that you have been helping to protect Fintain against the malevolent creatures nearby.\n\nWe will require more of your assistance, brave <Class>, and for it we shall not fail to reward you.		Zone Id	Lamfhota's Sound	Lamfhota's Sound																		
+			Level Min																						
+			1		Money	83																			
+			Max		XP	193																			
+			10		CLXP	0																			
+			Max count		RP	0																			
+			1		BP	0																			
+			Story Text																						
+			To prepare you for the realm war, we are going to have to get you accustomed to combat as a new <Class>. You may have noticed several people throughout town with the Lesson Quest icon over their head. You should feel free to speak with these individuals if you would like to learn some basic lessons.\n\nIf you do not require these lessons, and wish to delve directly gaining experience in combat, I have just the task for you.\n\nIn the east of my location a population of Wild Crouch have been slowly accumulating. These creatures have been attacking innoncent townsfolk at random, and they must be cleared from the area.\n\nI have marked your map with the location of these creatures so that you may find them and reduce their numbers. When you have finished, I would like you to report to Artigan who can be found northwest of me, along the road to lower Fintain. I have marked this location upon your map as well.																						
+			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
+					Final reward	recruits_cloak_hib																			
+			Class Type / Script 		Optional reward																				
+					Optional reward nb																				
+			Timestamp																						
+			2023-10-24 15:28:39	2023-10-24 15:28:39																					
+																									
+																									
+																									
+			Classes																						
+																									
+	Albion		Midgard 		Hibernia																				
+	Armsman		Berserker		Animist																				
+	Cabalist		Bonedancer		Bainshee																				
+	Cleric		Healer		Bard																				
+	Friar		Hunter		Blademaster																				
+	Heretic		Runemaster		Champion																				
+	Infiltrator		Savage		Druid																				
+	Mercenary		Shadowblade		Eldritch																				
+	Minstrel		Shaman		Enchanter																				
+	Necromancer		Skald		Hero																				
+	Paladin		Spiritmaster		Mentalist																				
+	Reaver		Thane		Nightshade																				
+	Scout		Valkyrie		Ranger																				
+	Sorcerer		Warlock		Valewalker																				
+	Theurgist		Warrior		Vampiir																				
+	Wizard		MaulerMid		Warden																				
+	MaulerAlb		Forester		MaulerHib																				
+	Acolyte		Guardian		Mystic																				
+	AlbionRogue		Mage		Naturalist																				
+	Disciple		Magician		Seer																				
+	Elementalist		MidgardRogue		Stalker																				
+	Fighter				Viking																				
+																									
+		x	ALL																						
