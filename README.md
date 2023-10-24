@@ -59,6 +59,9 @@ Start to do copy/paste of the steps description from Allakhazam into your spread
 
 You can check the details of the fields in the instructions document : OpenDataQuest_Instructions.ods
 
+![image](https://github.com/DigitalBox98/OpenDataquest/assets/57635141/2f522b7b-b3ab-47a8-a4e4-2558714a816c)
+
+
 The version of the OpenDataQuest input tool is based on the below :<br>
 - a major version (v1.0, v1.1, ...) : in case the CSV structure must be changed<br>
 - a minor version (64, 65, ...) : corresponding to EveOfDarkness/db-public data release  = the Mob, Worldobject, ItemTemplate dropdown lists are based on this version<br><br>
