@@ -46,7 +46,19 @@ Start to do copy/paste of the steps description from Allakhazam into your spread
 
 You can check the details of the fields in the instructions document : OpenDataQuest_Instructions.ods
 
+The version of the OpenDataQuest input tool is based on the below :<br>
+- a major version (v1.0, v1.1, ...) : in case the CSV structure must be changed<br>
+- a minor version (64, 65, ...) : corresponding to EveOfDarkness/db-public data release  = the Mob, Worldobject, ItemTemplate dropdown lists are based on this version<br><br>
+
+![image](https://github.com/DigitalBox98/OpenDataquest/assets/57635141/c18ea369-56af-4945-aaa7-8f5aeb8a1a99)
+![image](https://github.com/DigitalBox98/OpenDataquest/assets/57635141/98767f1c-c6bb-434c-858a-938ef330ef77)
+
+It means the CSV files are compatible within the same major version.<br>
+
+<br>
+
 Start testing and share your findings !
+
 
 
 
