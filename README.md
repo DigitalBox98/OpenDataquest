@@ -67,7 +67,7 @@ Paste the content to a text editor like Notepad++.<br>
 Save your file to CSV (tab as a separator).<br><br>
 
 The filename convention is :<br>
-<Quest Name>-<NPC Name>.csv  <br>
+&lt;Quest Name&gt;-&lt;NPC Name&gt;.csv  <br>
 
 (please replace " " by "_") <br>
 
