@@ -51,6 +51,8 @@ The version of the OpenDataQuest input tool if based on the below :<br>
 - a minor version (64, 65, ...) : corresponding to EveOfDarkness/db-public data release  = the Mob, Worldobject, ItemTemplate dropdown lists are based on this version<br><br>
 
 ![image](https://github.com/DigitalBox98/OpenDataquest/assets/57635141/c18ea369-56af-4945-aaa7-8f5aeb8a1a99)
+![image](https://github.com/DigitalBox98/OpenDataquest/assets/57635141/98767f1c-c6bb-434c-858a-938ef330ef77)
+
 
 <br>
 
