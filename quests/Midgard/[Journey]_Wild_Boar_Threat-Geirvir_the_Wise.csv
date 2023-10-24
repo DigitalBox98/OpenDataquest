@@ -1,0 +1,62 @@
+V1.1.65					/\\\ Open RewardQuest ///\																				
+																									
+																									
+																									
+																									
+			Quest Name		Goal Number (A=Active/I=Inactive)	A	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I
+			[Journey] Wild Boar Threat		2	Goal 1	Goal 2	Goal 3	Goal 4	Goal 5	Goal 6	Goal 7	Goal 8	Goal 9	Goal 10	Goal 11	Goal 12	Goal 13	Goal 14	Goal 15	Goal 16	Goal 17	Goal 18	Goal 19	Goal 20
+			Start = NPC (Region)		Goal Type	Kill	InteractFinish																		
+			Geirvir the Wise (Tutorial)		Step No	1	2																		
+			Or Object (Region)		Repeat No	3	1																		
+					Goal NPC Name (Region)	wild boar (Tutorial)	Brodira (Tutorial)																		
+			Start Type		Or Object Name (Region)																				
+			RewardQuest		Collect Item																				
+			Summary		Goal Journal Text	Kill 3 wild boars.	Speak with Brodira just north of Geirvir.																		
+			Slay 3 wild boars roaming the field northeast of Geirvir the Wise, then speak to Brodira nearby. If you have difficulty finding them, open your map to see where Geirvir has marked their location.\n(NOTE : type /map to open your map window.)		Goal Interact Text																				
+			Accept Text		Advance Text																				
+					X Loc	34178	32060	0	0																
+			Finish Text		Y Loc	24386	25505	0	0																
+			Ah <Player>, isn’t it ? I’ve been expecting you. I see that you have been busy protecting Hafhiem against the malevolent creatures nearby.\n\nWe will require more of your help very soon, noble <Class>.		Zone Id	Grenlock's Sound	Grenlock's Sound																		
+			Level Min																						
+			1		Money	83																			
+			Max		XP	193																			
+			10		CLXP	0																			
+			Max count		RP	0																			
+			1		BP	0																			
+			Story Text																						
+			You may have noticed several people throughout town with the Lesson Quest icon over their head. You should feel free to travel around town and speak with these individuals to see what you may learn.\n\nHowever if you feel are ready to join the fray of combat then I have a task for you. To the northeast of here, near the edge of the village, is a sounder of wild boars that have been slowly accumulating over the past few days. These creatures are aggressive in nature and have been attacking anyone drawing too close. They must be dealt with and cleared from this area.\n\n I have marked your map with the location of the boars so that you may find them and reduce their numbers. When you have finished, I would like you to report to Gythja of Tor, who can be found north of me, along the road to lower Hafheim. This location is also marked on your map and will be available when you finish my first task.																						
+			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
+					Final reward	recruits_cloak_mid																			
+			Class Type / Script 		Optional reward																				
+					Optional reward nb																				
+			Timestamp																						
+			2023-10-24 17:38:44	2023-10-24 17:38:44																					
+																									
+																									
+																									
+			Classes																						
+																									
+	Albion		Midgard 		Hibernia																				
+	Armsman		Berserker		Animist																				
+	Cabalist		Bonedancer		Bainshee																				
+	Cleric		Healer		Bard																				
+	Friar		Hunter		Blademaster																				
+	Heretic		Runemaster		Champion																				
+	Infiltrator		Savage		Druid																				
+	Mercenary		Shadowblade		Eldritch																				
+	Minstrel		Shaman		Enchanter																				
+	Necromancer		Skald		Hero																				
+	Paladin		Spiritmaster		Mentalist																				
+	Reaver		Thane		Nightshade																				
+	Scout		Valkyrie		Ranger																				
+	Sorcerer		Warlock		Valewalker																				
+	Theurgist		Warrior		Vampiir																				
+	Wizard		MaulerMid		Warden																				
+	MaulerAlb		Forester		MaulerHib																				
+	Acolyte		Guardian		Mystic																				
+	AlbionRogue		Mage		Naturalist																				
+	Disciple		Magician		Seer																				
+	Elementalist		MidgardRogue		Stalker																				
+	Fighter				Viking																				
+																									
+		x	ALL																						
