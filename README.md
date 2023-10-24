@@ -35,6 +35,19 @@ Launch your DOL server or - if server already started - do a /mob refreshquests 
 Your quest is now ready to be played/ tested !
 <br><br>
 
+
+# How to export a quest to CSV 
+
+Just do a copy of all your cells in the "Dataquest Input" tab.<br>
+Paste the content to a text editor like Notepad++.<br>
+Save your file to CSV (tab as a separator).<br><br>
+
+The filename convention is :<br>
+&lt;Quest Name&gt;-&lt;NPC Name&gt;.csv  <br>
+
+(please replace " " by "_") <br>
+
+
 # How to create a new quest 
 
 Open the file "Quests_List.ods" in the "samples" folder and do Ctrl+Click on the quest's title to go into the corresponding quest description on Allakhazam website.
@@ -59,17 +72,6 @@ It means the CSV files are compatible within the same major version.<br>
 
 Start testing and share your findings !
 
-
-# How to export a quest to CSV 
-
-Just do a copy of all your cells in the "Dataquest Input" tab.<br>
-Paste the content to a text editor like Notepad++.<br>
-Save your file to CSV (tab as a separator).<br><br>
-
-The filename convention is :<br>
-&lt;Quest Name&gt;-&lt;NPC Name&gt;.csv  <br>
-
-(please replace " " by "_") <br>
 
 
 
