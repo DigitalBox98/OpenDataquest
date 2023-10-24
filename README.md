@@ -44,6 +44,8 @@ Open the Dataquest input tool "DataQuest_Input.ods" and select your number of st
 
 Start to do copy/paste of the steps description from Allakhazam into your spreadsheet and create a Finish step to finalize your quest.<br><br>
 
+You can check the details of the fields in the instructions document : OpenDataQuest_Instructions.ods
+
 Start testing and share your findings !
 
 
