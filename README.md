@@ -45,7 +45,7 @@ Save your file to CSV (tab as a separator).<br>
 The filename convention is :<br>
 &lt;Quest Name&gt;-&lt;NPC Name&gt;.csv  <br>
 
-(please replace " " by "_") <br><br>
+(please replace " " by "_" in the filename) <br><br>
 
 
 # How to create a new quest 
