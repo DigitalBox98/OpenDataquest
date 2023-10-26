@@ -5,7 +5,7 @@ Welcome to the DOL dataquests sharing project
 Open the Dataquest input tool "DataQuest_Input.ods" and activate macros : <br>
 ![image](https://github.com/DigitalBox98/OpenDataquest/assets/57635141/d30d4ba8-a62d-48c9-9570-c75f327b5ee3)
 <br>
-Select one of the CSV quests in the "samples" folder and do a copy of the content :<br>
+Select one of the CSV quests in the "quest" folder and do a copy of the content :<br>
 ![image](https://github.com/DigitalBox98/OpenDataquest/assets/57635141/b871bb1a-df0e-44d2-932a-869e556dcdca)
 Paste the content into the spreadsheet in order to import the CSV : <br><br>
 
