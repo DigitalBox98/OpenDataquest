@@ -1,0 +1,62 @@
+V1.1.67					/\\\ Open RewardQuest ///\																				
+																									
+																									
+																									
+																									
+			Quest Name		Goal Number (A=Active/I=Inactive)	A	A	A	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I
+			[Journey] In Defense of Hafheim		4	Goal 1	Goal 2	Goal 3	Goal 4	Goal 5	Goal 6	Goal 7	Goal 8	Goal 9	Goal 10	Goal 11	Goal 12	Goal 13	Goal 14	Goal 15	Goal 16	Goal 17	Goal 18	Goal 19	Goal 20
+			Start = NPC (Region)		Goal Type	Interact	Kill	Interact	InteractFinish																
+			General Acheren (Tutorial)		Step No	1	1	2	3																
+			Or Object (Region)		Repeat No	1	3	1	1																
+					Goal NPC Name (Region)	Eylimi (Tutorial)	Hibernian invader (Tutorial)		Eylimi (Tutorial)																
+			Start Type		Or Object Name (Region)			trebuchet (Tutorial)																	
+			RewardQuest		Collect Item																				
+			Summary		Goal Journal Text	Meet Eylimi on the island afterwards	Slay 3 Hibernian Invaders	Steal Firing Pin from a Trebuchet (right click)	Find Eylimi on the north shore of the island																
+			Stop the Hibernian Invaders to the west of Hafheim from setting up their trebuchets. Meet Eylimi on the island afterwards.		Goal Interact Text				I watched your work, <Class>. Well done.\n\nHowever, this invasion cannot be quelled until we dispatch the commanders who are responsible for coordinating the attack.																
+			Accept Text		Advance Text																				
+					X Loc	25398	24469	24869	25398																
+			Finish Text		Y Loc	24188	25635	25398	24188																
+					Zone Id	Grenlock's Sound	Grenlock's Sound	Grenlock's Sound	Grenlock's Sound																
+			Level Min																						
+			1		Money	1210																			
+			Max		XP	9167																			
+			10		CLXP	0																			
+			Max count		RP	0																			
+			1		BP	0																			
+			Story Text																						
+			It is as I feared, <Class>. The invasion has started. Hibernian warships have come aground on the shores of Hafheim and from my position, I can see that they are setting up their trebuchets. A terrible barrage of siege will be upon us if we do not thwart this incursion.\n\nI have dispatched Eylimi, a master huntress, to approach the invasion force using her ability of stealth. She is concealing herself alon the eastern shore of the penninsula at a location which I have marked on your map. On your way to her, slay as many invaders as you can. Be forewarned, these enemies are no foolish monsters. They will attack you if you are seen, even at some distance, so be very careful as you approach them.\n\n We must thin their numbers, and most importantly, disable their siege weapons. Do what you can on your way to Eylimi.\n\nMay Thor guide your hand in the battle, <Class>.																						
+			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
+			[Journey] Blackfang		Final reward	RecruitsMightyBelt																			
+			Class Type / Script 		Optional reward																				
+					Optional reward nb																				
+			Timestamp																						
+			2023-10-30 13:58:16	2023-10-30 13:58:16																					
+																									
+																									
+																									
+			Classes																						
+																									
+	Albion		Midgard 		Hibernia																				
+	Armsman		Berserker		Animist																				
+	Cabalist		Bonedancer		Bainshee																				
+	Cleric		Healer		Bard																				
+	Friar		Hunter		Blademaster																				
+	Heretic		Runemaster		Champion																				
+	Infiltrator		Savage		Druid																				
+	Mercenary		Shadowblade		Eldritch																				
+	Minstrel		Shaman		Enchanter																				
+	Necromancer		Skald		Hero																				
+	Paladin		Spiritmaster		Mentalist																				
+	Reaver		Thane		Nightshade																				
+	Scout		Valkyrie		Ranger																				
+	Sorcerer		Warlock		Valewalker																				
+	Theurgist		Warrior		Vampiir																				
+	Wizard		MaulerMid		Warden																				
+	MaulerAlb		Forester		MaulerHib																				
+	Acolyte		Guardian		Mystic																				
+	AlbionRogue		Mage		Naturalist																				
+	Disciple		Magician		Seer																				
+	Elementalist		MidgardRogue		Stalker																				
+	Fighter				Viking																				
+																									
+		x	ALL																						
