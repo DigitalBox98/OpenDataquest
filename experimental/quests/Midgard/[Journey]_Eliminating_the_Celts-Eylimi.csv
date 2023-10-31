@@ -1,0 +1,62 @@
+V1.1.68					/\\\ Open RewardQuest ///\																				
+																									
+																									
+																									
+																									
+			Quest Name		Goal Number (A=Active/I=Inactive)	A	A	A	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I
+			[Journey] Eliminating the Celts		4	Goal 1	Goal 2	Goal 3	Goal 4	Goal 5	Goal 6	Goal 7	Goal 8	Goal 9	Goal 10	Goal 11	Goal 12	Goal 13	Goal 14	Goal 15	Goal 16	Goal 17	Goal 18	Goal 19	Goal 20
+			Start = NPC (Region)		Goal Type	Kill	Kill	Kill	InteractFinish																
+			Eylimi (Tutorial)		Step No	1	1	1	2																
+			Or Object (Region)		Repeat No	2	1	1	1																
+					Goal NPC Name (Region)	Hibernian Sentry (Tutorial)	Hibernian Sergeant (Tutorial)	Hibernian Commander (Tutorial)	Eylimi (Tutorial)																
+			Start Type		Or Object Name (Region)			trebuchet (Tutorial)																	
+			RewardQuest		Collect Item																				
+			Summary		Goal Journal Text	Slay 2 Hibernian Sentries	Kill 1 Hibernian Sergeant	Eliminate the Hibernian Commander	Find Eylimi on the north shore of the island																
+			Eylimi has asked you to oust the Hibernian Invaders from the island by defeating two Hibernian Sentries, one Hibernian Sergeants, and a Hibernian Commander. Report back to General Acheren in upper Hafheim when you have succeeded.		Goal Interact Text				Excellent work, <Player>\n\nYou are more valuable than I could have dreamed. This village owes you its survival and thanks.																
+			Accept Text		Advance Text																				
+					X Loc	25030	25073	25013	25393																
+			Finish Text		Y Loc	29062	28921	28692	24170																
+					Zone Id	Grenlock's Sound	Grenlock's Sound	Grenlock's Sound	Grenlock's Sound																
+			Level Min																						
+			1		Money	1911																			
+			Max		XP	20900																			
+			10		CLXP	0																			
+			Max count		RP	0																			
+			1		BP	0																			
+			Story Text																						
+			I have been observing the invasion force as they’ve come ashore. It seems that the officers have arrived and have set up their camp beside the dock, to the southwest. Infiltrating the camp to dispatch the commanders will be no easy feat. They are guarded by several sentries and elite Sergeants.\n\nThese Hibernian fighters are more experienced then the grunt invaders that you vanquished on your way to me. You must take care to protect yourself and not to engage too many fooes at once. If you are careful, you can lure in the Commander’s guards one or two at a time. They’re not too bright, after all.\n\nI wish you luck in your task, <Player>. When you have met with victory, report back to General Acheren in Hafheim.																						
+			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
+			[Journey] In Defense of Hafheim		Final reward	recruits_cloudy_jewel																			
+			Class Type / Script 		Optional reward																				
+					Optional reward nb																				
+			Timestamp																						
+			2023-10-31 18:40:03	2023-10-31 18:40:03																					
+																									
+																									
+																									
+			Classes																						
+																									
+	Albion		Midgard 		Hibernia																				
+	Armsman		Berserker		Animist																				
+	Cabalist		Bonedancer		Bainshee																				
+	Cleric		Healer		Bard																				
+	Friar		Hunter		Blademaster																				
+	Heretic		Runemaster		Champion																				
+	Infiltrator		Savage		Druid																				
+	Mercenary		Shadowblade		Eldritch																				
+	Minstrel		Shaman		Enchanter																				
+	Necromancer		Skald		Hero																				
+	Paladin		Spiritmaster		Mentalist																				
+	Reaver		Thane		Nightshade																				
+	Scout		Valkyrie		Ranger																				
+	Sorcerer		Warlock		Valewalker																				
+	Theurgist		Warrior		Vampiir																				
+	Wizard		MaulerMid		Warden																				
+	MaulerAlb		Forester		MaulerHib																				
+	Acolyte		Guardian		Mystic																				
+	AlbionRogue		Mage		Naturalist																				
+	Disciple		Magician		Seer																				
+	Elementalist		MidgardRogue		Stalker																				
+	Fighter				Viking																				
+																									
+		x	ALL																						
