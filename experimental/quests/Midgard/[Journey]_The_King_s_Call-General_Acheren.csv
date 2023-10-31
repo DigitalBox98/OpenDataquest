@@ -1,0 +1,62 @@
+V1.1.68	.				/\\\ Open RewardQuest ///\																				
+																									
+																									
+																									
+																									
+			Quest Name		Goal Number (A=Active/I=Inactive)	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I
+			[Journey] The King’s Call		1	Goal 1	Goal 2	Goal 3	Goal 4	Goal 5	Goal 6	Goal 7	Goal 8	Goal 9	Goal 10	Goal 11	Goal 12	Goal 13	Goal 14	Goal 15	Goal 16	Goal 17	Goal 18	Goal 19	Goal 20
+			Start = NPC (Region)		Goal Type	InteractFinish																			
+			General Acheren (Tutorial)		Step No	1																			
+			Or Object (Region)		Repeat No	1																			
+					Goal NPC Name (Region)	Commander Hreldan (Tutorial)																			
+			Start Type		Or Object Name (Region)																				
+			RewardQuest		Collect Item																				
+			Summary		Goal Journal Text	Report to Commander Hreldan																			
+			Report to Commander Hreldan to continue the defense of Hafheim.		Goal Interact Text	Wel met, <Class> !																			
+			Accept Text		Advance Text																				
+					X Loc	29471																			
+			Finish Text		Y Loc	28836																			
+					Zone Id	Grenlock's Sound																			
+			Level Min																						
+			1		Money	2247																			
+			Max		XP	5200																			
+			10		CLXP	0																			
+			Max count		RP	0																			
+			1		BP	0																			
+			Story Text																						
+			I observed your infiltration of the ennemy encampment from my position. You seem to have a preternatural ability for dispatching the foes of Hibernia. Hafheim is in your debt for helping to protect her shores.\n\nThe forces of Albion have launched an offensive on our stronghold, Throsa Faste. I need you to report to Commander Hreldan as soon as possible. He will need your help to hold back the Albion invaders there.																						
+			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
+			[Journey] Upgrading your weapon		Final reward																				
+			Class Type / Script 		Optional reward																				
+					Optional reward nb																				
+			Timestamp																						
+			2023-10-31 19:12:58	2023-10-31 19:12:58																					
+																									
+																									
+																									
+			Classes																						
+																									
+	Albion		Midgard 		Hibernia																				
+	Armsman		Berserker		Animist																				
+	Cabalist		Bonedancer		Bainshee																				
+	Cleric		Healer		Bard																				
+	Friar		Hunter		Blademaster																				
+	Heretic		Runemaster		Champion																				
+	Infiltrator		Savage		Druid																				
+	Mercenary		Shadowblade		Eldritch																				
+	Minstrel		Shaman		Enchanter																				
+	Necromancer		Skald		Hero																				
+	Paladin		Spiritmaster		Mentalist																				
+	Reaver		Thane		Nightshade																				
+	Scout		Valkyrie		Ranger																				
+	Sorcerer		Warlock		Valewalker																				
+	Theurgist		Warrior		Vampiir																				
+	Wizard		MaulerMid		Warden																				
+	MaulerAlb		Forester		MaulerHib																				
+	Acolyte		Guardian		Mystic																				
+	AlbionRogue		Mage		Naturalist																				
+	Disciple		Magician		Seer																				
+	Elementalist		MidgardRogue		Stalker																				
+	Fighter				Viking																				
+																									
+		x	ALL																						
