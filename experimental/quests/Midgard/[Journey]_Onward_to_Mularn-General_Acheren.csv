@@ -1,0 +1,62 @@
+V1.1.71					/\\\ Open RewardQuest ///\																				
+																									
+																									
+																									
+																									
+			Quest Name		Goal Number (A=Active/I=Inactive)	A	A	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I
+			[Journey] Onward to Mularn		3	Goal 1	Goal 2	Goal 3	Goal 4	Goal 5	Goal 6	Goal 7	Goal 8	Goal 9	Goal 10	Goal 11	Goal 12	Goal 13	Goal 14	Goal 15	Goal 16	Goal 17	Goal 18	Goal 19	Goal 20
+			Start = NPC (Region)		Goal Type	Interact	Interact	InteractFinish																	
+			General Acheren (Tutorial)		Step No	1	2	3																	
+			Or Object (Region)		Repeat No	1	1	1																	
+					Goal NPC Name (Region)	Channeler Olofsven (Tutorial)	Channeler Olofsven (Tutorial)	Viking Esben (Midgard)																	
+			Start Type		Or Object Name (Region)																				
+			RewardQuest		Collect Item																				
+			Summary		Goal Journal Text	Go to Channeler Olofsven for passage to Mularn	Speak with Channeler Olofsven	Speak with Viking Esben in Mularn.																	
+			Speak Channeler Olofsven next to the Bindstone in Hafheim for passage to Mularn where Chieftain Feidrid resides.		Goal Interact Text	Channeler Olofsven says, « Greetings <Class>. Do you wish to leave Grenlock’s Sound ? It is within my power to send you to Mularn if you would like. The distance is quite far and would take an entire day by horse. A travel spell is the fastest and safest way to get there. »	Channeler Olofsven says, « Very well then. You will be able to return here until you have reached your 16th season of training. Speak to any of the other Channelers of the realm to travel back. Are your ready to leave now ? »																		
+			Accept Text		Advance Text																				
+					X Loc	29374	29597	29597																	
+			Finish Text		Y Loc	25755	23293	23293																	
+			I’m glad to see you <Player> !		Zone Id	Grenlock's Sound	Grenlock's Sound	Grenlock's Sound																	
+			Level Min																						
+			1		Money	1400																			
+			Max		XP	5120																			
+			10		CLXP	0																			
+			Max count		RP	0																			
+			1		BP	0																			
+			Story Text																						
+			Yes, Hafheim is at your service, but you are meant for service to the entire realm of Midgard. I am going to send you to Chieftain Feidrid, once a legendary warrior who commanded our armies on the frontier. He’s recently taken up residence in Mularn and is training our most promising new recruits for this unceasing realm war.\n\nPlease see Channeler Olofsven in the center of Hafheim, by the Bindstone, and he will give you passage to Mularn.\n\nMidgard is an impressive realm, <Player>, spanning leagues and we need someone to do their part in defending its borders. Farewell and may the gods go with you.																						
+			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
+					Final reward																				
+			Class Type / Script 		Optional reward																				
+					Optional reward nb																				
+			Timestamp																						
+			2023-11-03 00:02:01	2023-11-03 00:02:01																					
+																									
+																									
+																									
+			Classes																						
+																									
+	Albion		Midgard 		Hibernia																				
+	Armsman		Berserker		Animist																				
+	Cabalist		Bonedancer		Bainshee																				
+	Cleric		Healer		Bard																				
+	Friar		Hunter		Blademaster																				
+	Heretic		Runemaster		Champion																				
+	Infiltrator		Savage		Druid																				
+	Mercenary		Shadowblade		Eldritch																				
+	Minstrel		Shaman		Enchanter																				
+	Necromancer		Skald		Hero																				
+	Paladin		Spiritmaster		Mentalist																				
+	Reaver		Thane		Nightshade																				
+	Scout		Valkyrie		Ranger																				
+	Sorcerer		Warlock		Valewalker																				
+	Theurgist		Warrior		Vampiir																				
+	Wizard		MaulerMid		Warden																				
+	MaulerAlb		Forester		MaulerHib																				
+	Acolyte		Guardian		Mystic																				
+	AlbionRogue		Mage		Naturalist																				
+	Disciple		Magician		Seer																				
+	Elementalist		MidgardRogue		Stalker																				
+	Fighter				Viking																				
+																									
+		x	ALL																						
