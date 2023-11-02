@@ -1,4 +1,4 @@
-V1.1.67					/\\\ Open DataQuest ///\																				
+V1.1.71					/\\\ Open DataQuest ///\																				
 																									
 																									
 																									
@@ -6,9 +6,9 @@ V1.1.67					/\\\ Open DataQuest ///\
 			Quest Name		Step Number (A=Active/I=Inactive)	A	A	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I
 			Truth or Dare		3	Step 1	Step 2	Step 3	Step 4	Step 5	Step 6	Step 7	Step 8	Step 9	Step 10	Step 11	Step 12	Step 13	Step 14	Step 15	Step 16	Step 17	Step 18	Step 19	Step 20
 			Start = NPC (Region)		Step Type	Interact	Interact	InteractFinish																	
-			Charles (Midgard)		Source = NPC Name (Region)	Charles (Midgard)	undead adventurer (Demon's Breach)	Charles (Midgard)																	
+			Charles (Midgard)		Source = NPC Name (Region)	Charles (Midgard)	Demon Statue (Demon's Breach)	Charles (Midgard)																	
 			Or Object (Region)		Or Object Name (Region)																				
-					Target = NPC Name (Region)	Charles (Midgard)	undead adventurer (Demon's Breach)	Charles (Midgard)																	
+					Target = NPC Name (Region)	Charles (Midgard)	Demon Statue (Demon's Breach)	Charles (Midgard)																	
 			Start Type		Or Object Name (Region)																				
 			Standard		Step Item Template																				
 			Description		Collect Item Template																				
@@ -30,7 +30,7 @@ V1.1.67					/\\\ Open DataQuest ///\
 			Class Type / Script 		Final reward																				
 																									
 			Timestamp																						
-			2023-11-02 20:24:30	2023-11-02 20:24:30																					
+			2023-11-02 21:48:21	2023-11-02 21:48:21																					
 			Start Text																						
 																									
 																									
