@@ -1,0 +1,62 @@
+V1.1.67					/\\\ Open DataQuest ///\																				
+																									
+																									
+																									
+																									
+			Quest Name		Step Number (A=Active/I=Inactive)	A	A	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I
+			Truth or Dare		3	Step 1	Step 2	Step 3	Step 4	Step 5	Step 6	Step 7	Step 8	Step 9	Step 10	Step 11	Step 12	Step 13	Step 14	Step 15	Step 16	Step 17	Step 18	Step 19	Step 20
+			Start = NPC (Region)		Step Type	Interact	Interact	InteractFinish																	
+			Charles (Midgard)		Source = NPC Name (Region)	Charles (Midgard)	undead adventurer (Demon's Breach)	Charles (Midgard)																	
+			Or Object (Region)		Or Object Name (Region)																				
+					Target = NPC Name (Region)	Charles (Midgard)	undead adventurer (Demon's Breach)	Charles (Midgard)																	
+			Start Type		Or Object Name (Region)																				
+			Standard		Step Item Template																				
+			Description		Collect Item Template																				
+			Charles says, « Hello there, <Class>. Have you ever gotten tired of playing the same game over and over ? That’s what it’s like here. All the adults say we can do is sit here and play ‘Truth or Dare’. Sure, it was fun at first, but most of us have gotten bored and Raymond’s too chicken to do any of the dares I think for him. »\n\nCharles says, « It was a lot more fun when we could play ‘Spin the Elixir’ in the tavern basement with the girls, but Tiff’s parents caught us there and we’ve been treated like babies ever since. I bet this game would be a whole lot better if you could [join] us. I’d even kick Raymond out and think up the bestest dare evern just for you. »		Source Text	Charles says, « Hmmm. Give me a minute. I know just the thing. The guards keep talking about a big, scary statue in the demon dungeon beyond the limit of the town. I dare you to go in and touch it, and come back out without getting eaten by a monster ! What do you say ? »		Charles says, « You made it back alive ! I mean, uh, welcome back ! How was the statue ? »																	
+			Accept Text		Advance Text																				
+			join		Step Text	Speak to Charles again	Charles has dared you to touch the statue in the center of Nergal’s section of the Demon’s Breach dungeon. Travel a short distance northeast of Mularn’s bindstone to find the dungeon entrance.	Return to Charles in Mularn and let him know you’ve completed his dare.																	
+			Finish Text																						
+					Target Text	Charles says, « Great, we’ll, uh, wait right here while you go do it. See, Raymond, not everyone’s a big chicken like you. Chicken ! »	You’ve reached the statue of Charles told you about. Return to him and let him know you’re completed his dare.																		
+			Level Min																						
+			1		Money	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+			Max		XP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+			10		CLXP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+			Max count		RP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+			99		BP	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+																									
+																									
+			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
+					Optional reward																				
+			Class Type / Script 		Final reward																				
+																									
+			Timestamp																						
+			2023-11-02 20:24:30	2023-11-02 20:24:30																					
+			Start Text																						
+																									
+																									
+			Classes																						
+																									
+	Albion		Midgard 		Hibernia																				
+	Armsman		Berserker		Animist																				
+	Cabalist		Bonedancer		Bainshee																				
+	Cleric		Healer		Bard																				
+	Friar		Hunter		Blademaster																				
+	Heretic		Runemaster		Champion																				
+	Infiltrator		Savage		Druid																				
+	Mercenary		Shadowblade		Eldritch																				
+	Minstrel		Shaman		Enchanter																				
+	Necromancer		Skald		Hero																				
+	Paladin		Spiritmaster		Mentalist																				
+	Reaver		Thane		Nightshade																				
+	Scout		Valkyrie		Ranger																				
+	Sorcerer		Warlock		Valewalker																				
+	Theurgist		Warrior		Vampiir																				
+	Wizard		MaulerMid		Warden																				
+	MaulerAlb		Forester		MaulerHib																				
+	Acolyte		Guardian		Mystic																				
+	AlbionRogue		Mage		Naturalist																				
+	Disciple		Magician		Seer																				
+	Elementalist		MidgardRogue		Stalker																				
+	Fighter				Viking																				
+																									
+		x	ALL																						
