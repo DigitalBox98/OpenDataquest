@@ -1,0 +1,62 @@
+V1.1.71					/\\\ Open RewardQuest ///\																				
+																									
+																									
+																									
+																									
+			Quest Name		Goal Number (A=Active/I=Inactive)	A	A	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I
+			[Journey] Reclaiming Thorsa Faste		3	Goal 1	Goal 2	Goal 3	Goal 4	Goal 5	Goal 6	Goal 7	Goal 8	Goal 9	Goal 10	Goal 11	Goal 12	Goal 13	Goal 14	Goal 15	Goal 16	Goal 17	Goal 18	Goal 19	Goal 20
+			Start = NPC (Region)		Goal Type	Kill	Interact	InteractFinish																	
+			Captain Torrek (Tutorial)		Step No	1	2	3																	
+			Or Object (Region)		Repeat No	6	1	1																	
+					Goal NPC Name (Region)	Stamford Armsman (Tutorial)	Lieutenant Heitrir (Tutorial)	Jarl Thorsa (Tutorial)																	
+			Start Type		Or Object Name (Region)																				
+			RewardQuest		Collect Item																				
+			Summary		Goal Journal Text	Kill 6 of the Albion forces sieging Thorsa Faste.	Speak with Lieutenant Heitrir	Speak with Jarl Thorsa																	
+			Enter the courtyard of Thorsa Faste and slaughter at least 6 Albion invaders. Once done, report to Lieutenant Heitrir and advise her that you have come to ensure the safety of Jarl Thorsa.		Goal Interact Text		Lieutenant Heitrir says, « Excellent work dispatching the Armsman <Player>. Jarl Thorsa wishes to speak with you immediately. Go through the keep doors behind me to reach him, I’ll hold off the enemy while you do. Make haste ! »																		
+			Accept Text		Advance Text																				
+					X Loc	28813	29510	30112																	
+			Finish Text		Y Loc	34770	35732	35735																	
+			Noble <Player>. You have shown remarkable bravery during a time of great fear and strife.\n\nThe soldiers at Thorsa Faste and the good people of Hafheim owe you a considerable debt of gratitude.\n\nYou’ve come this far, I ask that you do one last service.		Zone Id	Grenlock's Sound	Grenlock's Sound	Grenlock's Sound																	
+			Level Min																						
+			1		Money	6800																			
+			Max		XP	86250																			
+			10		CLXP	0																			
+			Max count		RP	0																			
+			1		BP	0																			
+			Story Text																						
+			Our forces have regained their foothold out here of the tower, thanks in part to your bravery and skill. My concern is for Thorsa Faste and the noble Jarl who resides there.\n\nJarl Thorsa has long defended Grenlock’s Sound, and the village of Hafheim by keeping the forces of Albion and Hibernia at bay. This simultaneous invasion is bringing Thorsa Faste to the brink of capture and that would be disastrous for the realm of Midgard.\n\nFollow  the path south and enter the courtyard of Thorsa Faste. Slay all the Armsmen that you fins. Show them no mercy, <Class>, for the safety of the realm is at stake. Once you have bewn down the invaders, speak to Lieutenant Heitrir who stands guard over the last remaining barrier between the heathens of Albion and our noble Jarl Thorsa, she will grant you access to the inner keep.																						
+			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
+					Final reward	recruits_pious_bracer																			
+			Class Type / Script 		Optional reward																				
+					Optional reward nb																				
+			Timestamp																						
+			2023-11-02 23:14:21	2023-11-02 23:14:21																					
+																									
+																									
+																									
+			Classes																						
+																									
+	Albion		Midgard 		Hibernia																				
+	Armsman		Berserker		Animist																				
+	Cabalist		Bonedancer		Bainshee																				
+	Cleric		Healer		Bard																				
+	Friar		Hunter		Blademaster																				
+	Heretic		Runemaster		Champion																				
+	Infiltrator		Savage		Druid																				
+	Mercenary		Shadowblade		Eldritch																				
+	Minstrel		Shaman		Enchanter																				
+	Necromancer		Skald		Hero																				
+	Paladin		Spiritmaster		Mentalist																				
+	Reaver		Thane		Nightshade																				
+	Scout		Valkyrie		Ranger																				
+	Sorcerer		Warlock		Valewalker																				
+	Theurgist		Warrior		Vampiir																				
+	Wizard		MaulerMid		Warden																				
+	MaulerAlb		Forester		MaulerHib																				
+	Acolyte		Guardian		Mystic																				
+	AlbionRogue		Mage		Naturalist																				
+	Disciple		Magician		Seer																				
+	Elementalist		MidgardRogue		Stalker																				
+	Fighter				Viking																				
+																									
+		x	ALL																						
