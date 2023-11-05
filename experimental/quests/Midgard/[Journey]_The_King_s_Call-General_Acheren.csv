@@ -1,10 +1,10 @@
-V1.1.68	.				/\\\ Open RewardQuest ///\																				
+V1.1.68					/\\\ Open RewardQuest ///\																				
 																									
 																									
 																									
 																									
 			Quest Name		Goal Number (A=Active/I=Inactive)	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I
-			[Journey] The King’s Call		1	Goal 1	Goal 2	Goal 3	Goal 4	Goal 5	Goal 6	Goal 7	Goal 8	Goal 9	Goal 10	Goal 11	Goal 12	Goal 13	Goal 14	Goal 15	Goal 16	Goal 17	Goal 18	Goal 19	Goal 20
+			[Journey] The Kings'Call		1	Goal 1	Goal 2	Goal 3	Goal 4	Goal 5	Goal 6	Goal 7	Goal 8	Goal 9	Goal 10	Goal 11	Goal 12	Goal 13	Goal 14	Goal 15	Goal 16	Goal 17	Goal 18	Goal 19	Goal 20
 			Start = NPC (Region)		Goal Type	InteractFinish																			
 			General Acheren (Tutorial)		Step No	1																			
 			Or Object (Region)		Repeat No	1																			
@@ -12,14 +12,14 @@ V1.1.68	.				/\\\ Open RewardQuest ///\
 			Start Type		Or Object Name (Region)																				
 			RewardQuest		Collect Item																				
 			Summary		Goal Journal Text	Report to Commander Hreldan																			
-			Report to Commander Hreldan to continue the defense of Hafheim.		Goal Interact Text	Wel met, <Class> !																			
+			Report to Commander Hreldan to continue the defense of Hafheim.		Goal Interact Text																				
 			Accept Text		Advance Text																				
 					X Loc	29471																			
 			Finish Text		Y Loc	28836																			
-					Zone Id	Grenlock's Sound																			
+			Wel met, <Class> !		Zone Id	Grenlock's Sound																			
 			Level Min																						
 			1		Money	2247																			
-			Max		XP	5200																			
+			Max		XP	12750																			
 			10		CLXP	0																			
 			Max count		RP	0																			
 			1		BP	0																			
@@ -30,7 +30,7 @@ V1.1.68	.				/\\\ Open RewardQuest ///\
 			Class Type / Script 		Optional reward																				
 					Optional reward nb																				
 			Timestamp																						
-			2023-10-31 19:12:58	2023-10-31 19:12:58																					
+			2023-11-05 16:57:32	2023-11-05 16:57:32																					
 																									
 																									
 																									

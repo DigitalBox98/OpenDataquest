@@ -1,36 +1,36 @@
-V1.1.68					/\\\ Open RewardQuest ///\																				
+V1.1.71					/\\\ Open RewardQuest ///\																				
 																									
 																									
 																									
 																									
 			Quest Name		Goal Number (A=Active/I=Inactive)	A	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I
-			[Journey] Upgrading your weapon		2	Goal 1	Goal 2	Goal 3	Goal 4	Goal 5	Goal 6	Goal 7	Goal 8	Goal 9	Goal 10	Goal 11	Goal 12	Goal 13	Goal 14	Goal 15	Goal 16	Goal 17	Goal 18	Goal 19	Goal 20
-			Start = NPC (Region)		Goal Type	Interact	InteractFinish																		
-			General Acheren (Tutorial)		Step No	1	2																		
-			Or Object (Region)		Repeat No	1	1																		
-					Goal NPC Name (Region)	Dhendr (Tutorial)	General Acheren (Tutorial)																		
+			[Journey] Invaders from the South		2	Goal 1	Goal 2	Goal 3	Goal 4	Goal 5	Goal 6	Goal 7	Goal 8	Goal 9	Goal 10	Goal 11	Goal 12	Goal 13	Goal 14	Goal 15	Goal 16	Goal 17	Goal 18	Goal 19	Goal 20
+			Start = NPC (Region)		Goal Type	Kill	InteractFinish																		
+			Commander Hreldan (Tutorial)		Step No	1	2																		
+			Or Object (Region)		Repeat No	4	1																		
+					Goal NPC Name (Region)	Albion invader (Tutorial)	Captain Torrek (Tutorial)																		
 			Start Type		Or Object Name (Region)																				
 			RewardQuest		Collect Item																				
-			Summary		Goal Journal Text	Browse Dhendr’s store	Return to General Acheren.																		
-			Speak with Dhendr at his shop north of the bindstone on the hill and browse his wares for a new weapon. Return to General Acheren afterwards.		Goal Interact Text	Dhendr says, « Please, take anything you need. We must ensuire you are well equiped for the battles ahead. »																			
+			Summary		Goal Journal Text	Attack and kill 4 Albion invaders.	Report to Captain Torrek.																		
+			Attack and kill at least 4 Albion invaders around the tower in front of Captain Thorrek. Once you have killed the invaders, report to Torrek.		Goal Interact Text																				
 			Accept Text		Advance Text																				
-			All ready then ? Good.		X Loc	29054	29636																		
-			Finish Text		Y Loc	23296	23296																		
-					Zone Id	Grenlock's Sound	Grenlock's Sound																		
+					X Loc	29699	28883																		
+			Finish Text		Y Loc	32428	32395																		
+			A fine job, <Class>! You have certainly proven to be a worthy fighter.\n\nPlease equip this, its a magical properties will enhance you to be more powerful, for there is more work to be done !		Zone Id	Grenlock's Sound	Grenlock's Sound																		
 			Level Min																						
-			1		Money	749																			
-			Max		XP	1530																			
+			1		Money	2996																			
+			Max		XP	35700																			
 			10		CLXP	0																			
 			Max count		RP	0																			
 			1		BP	0																			
 			Story Text																						
-			You seem to have a prematured ability for dispatching the foes of Midgard. Hafheim is in your debt for helping to protect her shores.\n\nThat debt will no go unpaid. Visit Dhendr the weapon merchant at his shop north of the bindstone on the hill, he has an excellent selection of weapons which he is donating for our cause.\n\nSpeak with him and browse his wares. Once you have selected a new weapon, return to me. There are important matters at hand.																						
+			These Albion invaders will not relent. They have been pressing their advance and I fear that my company of Huscarts may soon be overrun. I require your help to enter the fray and dispatch a number of Albion invaders so that we may gain the advantage before they are able to reinforce.\n\nGo forth and assist any of the Huscarls in killing the Albion invaders then report to Captain Torrek. If you prove to be effective, he will demonstrate to you our appreciation for your support.\n\nGood luck, <Player>.																						
 			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
-			[Journey] Eliminating the Celts		Final reward																				
+			[Journey] The Kings'Call		Final reward	recruits_pewter_ring																			
 			Class Type / Script 		Optional reward																				
 					Optional reward nb																				
 			Timestamp																						
-			2023-11-05 16:38:48	2023-11-05 16:38:48																					
+			2023-11-05 17:31:52	2023-11-05 17:31:52																					
 																									
 																									
 																									

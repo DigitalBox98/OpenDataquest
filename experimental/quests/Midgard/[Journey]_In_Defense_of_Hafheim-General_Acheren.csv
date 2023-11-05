@@ -12,11 +12,11 @@ V1.1.67					/\\\ Open RewardQuest ///\
 			Start Type		Or Object Name (Region)			trebuchet (Tutorial)																	
 			RewardQuest		Collect Item																				
 			Summary		Goal Journal Text	Meet Eylimi on the island afterwards	Slay 3 Hibernian Invaders	Steal Firing Pin from a Trebuchet (right click)	Find Eylimi on the north shore of the island																
-			Stop the Hibernian Invaders to the west of Hafheim from setting up their trebuchets. Meet Eylimi on the island afterwards.		Goal Interact Text				I watched your work, <Class>. Well done.\n\nHowever, this invasion cannot be quelled until we dispatch the commanders who are responsible for coordinating the attack.																
+			Stop the Hibernian Invaders to the west of Hafheim from setting up their trebuchets. Meet Eylimi on the island afterwards.		Goal Interact Text																				
 			Accept Text		Advance Text																				
 					X Loc	25398	24469	24869	25398																
 			Finish Text		Y Loc	24188	25635	25398	24188																
-					Zone Id	Grenlock's Sound	Grenlock's Sound	Grenlock's Sound	Grenlock's Sound																
+			I watched your work, <Class>. Well done.\n\nHowever, this invasion cannot be quelled until we dispatch the commanders who are responsible for coordinating the attack.		Zone Id	Grenlock's Sound	Grenlock's Sound	Grenlock's Sound	Grenlock's Sound																
 			Level Min																						
 			1		Money	1210																			
 			Max		XP	9167																			
@@ -30,7 +30,7 @@ V1.1.67					/\\\ Open RewardQuest ///\
 			Class Type / Script 		Optional reward																				
 					Optional reward nb																				
 			Timestamp																						
-			2023-10-30 13:58:16	2023-10-30 13:58:16																					
+			2023-11-05 14:19:21	2023-11-05 14:19:21																					
 																									
 																									
 																									

@@ -12,14 +12,14 @@ V1.1.65					/\\\ Open RewardQuest ///\
 			Start Type		Or Object Name (Region)																				
 			RewardQuest		Collect Item																				
 			Summary		Goal Journal Text	Kill 3 wild boars.	Speak with Brodira just north of Geirvir.																		
-			Slay 3 wild boars roaming the field northeast of Geirvir the Wise, then speak to Brodira nearby. If you have difficulty finding them, open your map to see where Geirvir has marked their location.\n(NOTE : type /map to open your map window.)		Goal Interact Text																				
+			Slay 3 wild boars roaming the field northeast of Geirvir the Wise, then speak to Brodira nearby. If you have difficulty finding them, open your map to see where Geirvir has marked their location.\n(NOTE : type /map to open your map window.)		Goal Interact Text																				
 			Accept Text		Advance Text																				
-					X Loc	34178	32060	0	0																
-			Finish Text		Y Loc	24386	25505	0	0																
-			Ah <Player>, isn’t it ? I’ve been expecting you. I see that you have been busy protecting Hafhiem against the malevolent creatures nearby.\n\nWe will require more of your help very soon, noble <Class>.		Zone Id	Grenlock's Sound	Grenlock's Sound																		
+					X Loc	34178	32027	0	0																
+			Finish Text		Y Loc	24386	25068	0	0																
+			Ah <Player>, isn’t it ? I’ve been expecting you. I see that you have been busy protecting Hafhiem against the malevolent creatures nearby.\n\nWe will require more of your help very soon, noble <Class>.		Zone Id	Grenlock's Sound	Grenlock's Sound																		
 			Level Min																						
-			1		Money	83																			
-			Max		XP	193																			
+			1		Money	31																			
+			Max		XP	180																			
 			10		CLXP	0																			
 			Max count		RP	0																			
 			1		BP	0																			
@@ -30,7 +30,7 @@ V1.1.65					/\\\ Open RewardQuest ///\
 			Class Type / Script 		Optional reward																				
 					Optional reward nb																				
 			Timestamp																						
-			2023-10-26 19:09:47	2023-10-26 19:09:47																					
+			2023-11-05 13:46:50	2023-11-05 13:46:50																					
 																									
 																									
 																									

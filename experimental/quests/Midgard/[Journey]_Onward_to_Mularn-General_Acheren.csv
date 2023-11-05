@@ -11,14 +11,14 @@ V1.1.71					/\\\ Open RewardQuest ///\
 					Goal NPC Name (Region)	Channeler Olofsven (Tutorial)	Channeler Olofsven (Tutorial)	Viking Esben (Midgard)																	
 			Start Type		Or Object Name (Region)																				
 			RewardQuest		Collect Item																				
-			Summary		Goal Journal Text	Go to Channeler Olofsven for passage to Mularn	Speak with Channeler Olofsven	Speak with Viking Esben in Mularn.																	
-			Speak Channeler Olofsven next to the Bindstone in Hafheim for passage to Mularn where Chieftain Feidrid resides.		Goal Interact Text	Channeler Olofsven says, « Greetings <Class>. Do you wish to leave Grenlock’s Sound ? It is within my power to send you to Mularn if you would like. The distance is quite far and would take an entire day by horse. A travel spell is the fastest and safest way to get there. »	Channeler Olofsven says, « Very well then. You will be able to return here until you have reached your 16th season of training. Speak to any of the other Channelers of the realm to travel back. Are your ready to leave now ? »																		
+			Summary		Goal Journal Text	Go to Channeler Olofsven for passage to Mularn	Speak to Channeler Olofsven	Speak to Viking Esben in Mularn.																	
+			Speak Channeler Olofsven next to the Bindstone in Hafheim for passage to Mularn where Chieftain Feidrid resides.		Goal Interact Text	Channeler Olofsven says, « Greetings <Class>. Do you wish to leave Grenlock’s Sound ? It is within my power to send you to Mularn if you would like. The distance is quite far and would take an entire day by horse. A travel spell is the fastest and safest way to get there. »	Channeler Olofsven says, « Very well then. You will be able to return here until you have reached your 16th season of training. Speak to any of the other Channelers of the realm to travel back. Are your ready to leave now ? »																		
 			Accept Text		Advance Text																				
-					X Loc	29374	29597	29597																	
-			Finish Text		Y Loc	25755	23293	23293																	
-			I’m glad to see you <Player> !		Zone Id	Grenlock's Sound	Grenlock's Sound	Grenlock's Sound																	
+					X Loc	29374	29597	48757																	
+			Finish Text		Y Loc	25755	23293	54469																	
+			Hey, <Class>. Welcome to Mularn.		Zone Id	Grenlock's Sound	Grenlock's Sound	Vale of Mularn																	
 			Level Min																						
-			1		Money	1400																			
+			1		Money	1470																			
 			Max		XP	5120																			
 			10		CLXP	0																			
 			Max count		RP	0																			
@@ -26,11 +26,11 @@ V1.1.71					/\\\ Open RewardQuest ///\
 			Story Text																						
 			Yes, Hafheim is at your service, but you are meant for service to the entire realm of Midgard. I am going to send you to Chieftain Feidrid, once a legendary warrior who commanded our armies on the frontier. He’s recently taken up residence in Mularn and is training our most promising new recruits for this unceasing realm war.\n\nPlease see Channeler Olofsven in the center of Hafheim, by the Bindstone, and he will give you passage to Mularn.\n\nMidgard is an impressive realm, <Player>, spanning leagues and we need someone to do their part in defending its borders. Farewell and may the gods go with you.																						
 			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
-					Final reward																				
+			[Journey] Status Report		Final reward																				
 			Class Type / Script 		Optional reward																				
 					Optional reward nb																				
 			Timestamp																						
-			2023-11-03 00:02:01	2023-11-03 00:02:01																					
+			2023-11-05 18:23:59	2023-11-05 18:23:59																					
 																									
 																									
 																									

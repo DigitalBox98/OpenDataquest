@@ -5,14 +5,14 @@ V1.1.71					/\\\ Open RewardQuest ///\
 																									
 			Quest Name		Goal Number (A=Active/I=Inactive)	A	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I
 			[Journey] Status Report		2	Goal 1	Goal 2	Goal 3	Goal 4	Goal 5	Goal 6	Goal 7	Goal 8	Goal 9	Goal 10	Goal 11	Goal 12	Goal 13	Goal 14	Goal 15	Goal 16	Goal 17	Goal 18	Goal 19	Goal 20
-			Start = NPC (Region)		Goal Type	Interact	Interact																		
+			Start = NPC (Region)		Goal Type	Interact	InteractFinish																		
 			Jarl Thorsa (Tutorial)		Step No	1	2																		
 			Or Object (Region)		Repeat No	1	1																		
 					Goal NPC Name (Region)	Stor Gothi Soti (Tutorial)	General Acheren (Tutorial)																		
 			Start Type		Or Object Name (Region)																				
 			RewardQuest		Collect Item																				
 			Summary		Goal Journal Text	Speak with Stor Gothi Soti for passage to Hafheim	Speak with General Acheren																		
-			Speak with Stor Gothi Soti next to Jarl Thorsa for passage back to General Acheren in Hafheim. Speak with General Acheren once there.		Goal Interact Text	Stor Gothi Soti says, « Greetings <Class>, I am Stor Gothi Soti, Jarl Thorsa has asked me to stay here to help evacuate any wounded back to Hafheim. If he has granted you permission to return, I will be happy to teleport you to General Acheren. »																			
+			Speak with Stor Gothi Soti next to Jarl Thorsa for passage back to General Acheren in Hafheim. Speak with General Acheren once there.		Goal Interact Text	Stor Gothi Soti says, « Greetings <Class>, I am Stor Gothi Soti, Jarl Thorsa has asked me to stay here to help evacuate any wounded back to Hafheim. If he has granted you permission to return, I will be happy to teleport you to General Acheren. »																			
 			Accept Text		Advance Text																				
 					X Loc	30112	29597																		
 			Finish Text		Y Loc	34770	23293																		
@@ -26,11 +26,11 @@ V1.1.71					/\\\ Open RewardQuest ///\
 			Story Text																						
 			With your help, we have the situation under better control, but there is still some fighting left to do… nothing my soldiers and I can’t handle minde you.\n\nHo, it is time for your to head back to Hafheim. I sense great things from you. General Acheren will direct you to where you are most needed. Could you update him on our status as well ? Good good. Speak with Stor Gothi Soti, he will hasten your journey back to Hafheim, take care, <Player>, and thank you again.																						
 			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
-					Final reward																				
+			[Journey] Reclaiming Thorsa Faste		Final reward																				
 			Class Type / Script 		Optional reward																				
 					Optional reward nb																				
 			Timestamp																						
-			2023-11-02 23:37:41	2023-11-02 23:37:41																					
+			2023-11-05 18:13:00	2023-11-05 18:13:00																					
 																									
 																									
 																									

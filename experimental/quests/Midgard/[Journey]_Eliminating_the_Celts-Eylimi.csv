@@ -8,15 +8,15 @@ V1.1.68					/\\\ Open RewardQuest ///\
 			Start = NPC (Region)		Goal Type	Kill	Kill	Kill	InteractFinish																
 			Eylimi (Tutorial)		Step No	1	1	1	2																
 			Or Object (Region)		Repeat No	2	1	1	1																
-					Goal NPC Name (Region)	Hibernian Sentry (Tutorial)	Hibernian Sergeant (Tutorial)	Hibernian Commander (Tutorial)	Eylimi (Tutorial)																
+					Goal NPC Name (Region)	Hibernian Sentry (Tutorial)	Hibernian Sergeant (Tutorial)	Hibernian Commander (Tutorial)	General Acheren (Tutorial)																
 			Start Type		Or Object Name (Region)			trebuchet (Tutorial)																	
 			RewardQuest		Collect Item																				
-			Summary		Goal Journal Text	Slay 2 Hibernian Sentries	Kill 1 Hibernian Sergeant	Eliminate the Hibernian Commander	Find Eylimi on the north shore of the island																
-			Eylimi has asked you to oust the Hibernian Invaders from the island by defeating two Hibernian Sentries, one Hibernian Sergeants, and a Hibernian Commander. Report back to General Acheren in upper Hafheim when you have succeeded.		Goal Interact Text				Excellent work, <Player>\n\nYou are more valuable than I could have dreamed. This village owes you its survival and thanks.																
+			Summary		Goal Journal Text	Slay 2 Hibernian Sentries	Kill 1 Hibernian Sergeant	Eliminate the Hibernian Commander	Report back to General Acheren																
+			Eylimi has asked you to oust the Hibernian Invaders from the island by defeating two Hibernian Sentries, one Hibernian Sergeants, and a Hibernian Commander. Report back to General Acheren in upper Hafheim when you have succeeded.		Goal Interact Text																				
 			Accept Text		Advance Text																				
-					X Loc	25030	25073	25013	25393																
-			Finish Text		Y Loc	29062	28921	28692	24170																
-					Zone Id	Grenlock's Sound	Grenlock's Sound	Grenlock's Sound	Grenlock's Sound																
+					X Loc	25030	25073	25013	29617																
+			Finish Text		Y Loc	29062	28921	28692	23235																
+			Excellent work, <Player>\n\nYou are more valuable than I could have dreamed. This village owes you its survival and thanks.		Zone Id	Grenlock's Sound	Grenlock's Sound	Grenlock's Sound	Grenlock's Sound																
 			Level Min																						
 			1		Money	1911																			
 			Max		XP	20900																			
@@ -30,7 +30,7 @@ V1.1.68					/\\\ Open RewardQuest ///\
 			Class Type / Script 		Optional reward																				
 					Optional reward nb																				
 			Timestamp																						
-			2023-10-31 18:40:03	2023-10-31 18:40:03																					
+			2023-11-05 16:30:32	2023-11-05 16:30:32																					
 																									
 																									
 																									

@@ -12,13 +12,13 @@ V1.1.66					/\\\ Open RewardQuest ///\
 			Start Type		Or Object Name (Region)																				
 			RewardQuest		Collect Item																				
 			Summary		Goal Journal Text	Kill 3 Grey Wolves in the field to the northeast	Kill Blackfang the wolf mother	Report to General Acheren in Hafheim.																	
-			Trael a short distance north and slay 3 Grey Wolves on the hilltop. When this is done, dipatch Blackfang, the wolf mother.\n\nOnce done report to General Acheren in Hafheim.		Goal Interact Text																				
+			Travel a short distance north and slay 3 Grey Wolves on the hilltop. When this is done, dipatch Blackfang, the wolf mother.\n\nOnce done report to General Acheren in Hafheim.		Goal Interact Text																				
 			Accept Text		Advance Text																				
 					X Loc	34443	34436	29608	0																
 			Finish Text		Y Loc	17533	17905	23278	0																
 			Ah it’s <Player>, unkilled by the ravenous Blackfang.\n\nBrodira was right to vouch for you. I require no more proof of your bravery and skill.		Zone Id	Grenlock's Sound	Grenlock's Sound	Grenlock's Sound																	
 			Level Min																						
-			1		Money	620																			
+			1		Money	609																			
 			Max		XP	1450																			
 			10		CLXP	0																			
 			Max count		RP	0																			
@@ -30,7 +30,7 @@ V1.1.66					/\\\ Open RewardQuest ///\
 			Class Type / Script 		Optional reward																				
 					Optional reward nb																				
 			Timestamp																						
-			2023-10-26 19:10:35	2023-10-26 19:10:35																					
+			2023-11-05 14:05:25	2023-11-05 14:05:25																					
 																									
 																									
 																									
