@@ -18,8 +18,8 @@ V1.1.65					/\\\ Open RewardQuest ///\
 			Finish Text		Y Loc	24695	26375	0	0																
 			I have been expecting you, <Player> ! I see that you have been helping to protect Fintain against the malevolent creatures nearby.\n\nWe will require more of your assistance, brave <Class>, and for it we shall not fail to reward you.		Zone Id	Lamfhota's Sound	Lamfhota's Sound																		
 			Level Min																						
-			1		Money	83																			
-			Max		XP	193																			
+			1		Money	93																			
+			Max		XP	198																			
 			10		CLXP	0																			
 			Max count		RP	0																			
 			1		BP	0																			
@@ -30,7 +30,7 @@ V1.1.65					/\\\ Open RewardQuest ///\
 			Class Type / Script 		Optional reward																				
 					Optional reward nb																				
 			Timestamp																						
-			2023-10-24 15:28:39	2023-10-24 15:28:39																					
+			2023-11-06 12:01:06	2023-11-06 12:01:06																					
 																									
 																									
 																									
