@@ -1,0 +1,62 @@
+V1.1.73					/\\\ Open RewardQuest ///\																				
+																									
+																									
+																									
+																									
+			Quest Name		Goal Number (A=Active/I=Inactive)	A	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I
+			[Journey] A Weapon Against Evil		2	Goal 1	Goal 2	Goal 3	Goal 4	Goal 5	Goal 6	Goal 7	Goal 8	Goal 9	Goal 10	Goal 11	Goal 12	Goal 13	Goal 14	Goal 15	Goal 16	Goal 17	Goal 18	Goal 19	Goal 20
+			Start = NPC (Region)		Goal Type	Interact	InteractFinish																		
+			Captain Viteri (Tutorial)		Step No	1	2																		
+			Or Object (Region)		Repeat No	1	1																		
+					Goal NPC Name (Region)	Leyalle (Tutorial)	Captain Viteri (Tutorial)																		
+			Start Type		Or Object Name (Region)																				
+			RewardQuest		Collect Item																				
+			Summary		Goal Journal Text	Speak with Leyalle to choose a weapon	Return to Captain Viteri																		
+			Speak with Leyalle to obtain a weapon of your choice. Once done, return to Captain Viteri to receive your next task.		Goal Interact Text	Leyalle says, "Hail, <Class>! I am happy to provide to you one of my fine weapons, hand crafted right here in Fintain. Please choose one, free of any charge."																			
+			Accept Text		Advance Text																				
+					X Loc	28630	29214																		
+			Finish Text		Y Loc	23604	23559																		
+			Excellent. Now, let us quell this invasion.\n\nI am glad that you are with us, <Player>.		Zone Id	Lamfhota's Sound	Lamfhota's Sound																		
+			Level Min																						
+			1		Money	1911																			
+			Max		XP	14299																			
+			10		CLXP	0																			
+			Max count		RP	0																			
+			1		BP	0																			
+			Story Text																						
+			You have proven to me your bravery and dedication to Hibernia.\n\nFor this, am pleased to bestow upon you a weapon of your choice. Simply speak with Leyalle directly to my west, and she will provide you with what supplies you require, free of duty or fee.\n\nReturn to me when you've assembled your required supplies.																						
+			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
+			[Journey] Annihilating Albion		Final reward																				
+			Class Type / Script 		Optional reward																				
+					Optional reward nb																				
+			Timestamp																						
+			2023-11-21 18:48:49	2023-11-21 18:48:49																					
+																									
+																									
+																									
+			Classes																						
+																									
+	Albion		Midgard 		Hibernia																				
+	Armsman		Berserker		Animist																				
+	Cabalist		Bonedancer		Bainshee																				
+	Cleric		Healer		Bard																				
+	Friar		Hunter		Blademaster																				
+	Heretic		Runemaster		Champion																				
+	Infiltrator		Savage		Druid																				
+	Mercenary		Shadowblade		Eldritch																				
+	Minstrel		Shaman		Enchanter																				
+	Necromancer		Skald		Hero																				
+	Paladin		Spiritmaster		Mentalist																				
+	Reaver		Thane		Nightshade																				
+	Scout		Valkyrie		Ranger																				
+	Sorcerer		Warlock		Valewalker																				
+	Theurgist		Warrior		Vampiir																				
+	Wizard		MaulerMid		Warden																				
+	MaulerAlb		Forester		MaulerHib																				
+	Acolyte		Guardian		Mystic																				
+	AlbionRogue		Mage		Naturalist																				
+	Disciple		Magician		Seer																				
+	Elementalist		MidgardRogue		Stalker																				
+	Fighter				Viking																				
+																									
+		x	ALL																						

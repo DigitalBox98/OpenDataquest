@@ -1,0 +1,62 @@
+V1.1.73					/\\\ Open RewardQuest ///\																				
+																									
+																									
+																									
+																									
+			Quest Name		Goal Number (A=Active/I=Inactive)	A	A	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I
+			[Journey] Reclaiming Dun Cormyra		3	Goal 1	Goal 2	Goal 3	Goal 4	Goal 5	Goal 6	Goal 7	Goal 8	Goal 9	Goal 10	Goal 11	Goal 12	Goal 13	Goal 14	Goal 15	Goal 16	Goal 17	Goal 18	Goal 19	Goal 20
+			Start = NPC (Region)		Goal Type	Kill	Interact	InteractFinish																	
+			Captain Inarea (Tutorial)		Step No	1	2	3																	
+			Or Object (Region)		Repeat No	6	1	1																	
+					Goal NPC Name (Region)	Midgard invader (Tutorial)	Sergeant Sakinthlas (Tutorial)	Chieftess Cormyra (Tutorial)																	
+			Start Type		Or Object Name (Region)																				
+			RewardQuest		Collect Item																				
+			Summary		Goal Journal Text	Slay 6 of the Midgard forces in Dun Cormyra	Speak with Sergeant Sakinthlas	Speak with Chieftess Cormyra																	
+			Enter the courtyard of Dun Cormyra and slaughter at least 6 Midgard invaders. Once done, report to Sergeant Sakinthlas and advise him that you have come to ensure the safety of Chieftess Cormyra.		Goal Interact Text		The Sergeant Sakinthlas says, "Oh thank The Morrigan for you, <Player>. I was sure that Dun Cormyra was going to be overrun by these monstrous invaders from Midgard.\n\nPlease enter the keep through the doors behind me. Chieftess Cormyra will be most happy to see you."																		
+			Accept Text		Advance Text																				
+					X Loc	29010	29407	30181																	
+			Finish Text		Y Loc	34832	35822	35808																	
+			My dear <Player>. You have shown remarkable bravery during a time of great fear and strife.\n\nThe soldiers at Dun Cormyra and the good people of Fintain owe you a considerable debt of gratitude.\n\nYou've come this far, lask that you do one last service.		Zone Id	Lamfhota's Sound	Lamfhota's Sound	Lamfhota's Sound																	
+			Level Min																						
+			1		Money	4546																			
+			Max		XP	92000																			
+			10		CLXP	0																			
+			Max count		RP	0																			
+			1		BP	0																			
+			Story Text																						
+			Our forces have regained their foothold out here at the tower, thanks in part to your bravery and skill. My concern is for Dun Cormyra and the Chieftess who resides there.\n\nChieftess Cormyra has long defended Lamthota's Sound, and the town of Fintain by keeping the forces of Albion and Midgard at bay. This simultaneous invasion is bringing Dun Cormyra to the brink of capture and that would be disasterous for the realm of Hibernia.\n\nFollow the path south and enter the courtyard of Dun Cormyra. Slay all invaders that you find. Show them no mercy, Celt, for the safety of the realm is at stake. Once you have hewn down the invaders, speak with Sergeant Sakinthlas who stands guard over the last remaining barrier between the barbarians of Midgard and our noble Chieftess Cormyra, he will grant you access to the inner keep.																						
+			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
+			[Journey] Dispatch the Commander		Final reward	recruits_pious_bracer																			
+			Class Type / Script 		Optional reward																				
+					Optional reward nb																				
+			Timestamp																						
+			2023-11-21 18:45:40	2023-11-21 18:45:40																					
+																									
+																									
+																									
+			Classes																						
+																									
+	Albion		Midgard 		Hibernia																				
+	Armsman		Berserker		Animist																				
+	Cabalist		Bonedancer		Bainshee																				
+	Cleric		Healer		Bard																				
+	Friar		Hunter		Blademaster																				
+	Heretic		Runemaster		Champion																				
+	Infiltrator		Savage		Druid																				
+	Mercenary		Shadowblade		Eldritch																				
+	Minstrel		Shaman		Enchanter																				
+	Necromancer		Skald		Hero																				
+	Paladin		Spiritmaster		Mentalist																				
+	Reaver		Thane		Nightshade																				
+	Scout		Valkyrie		Ranger																				
+	Sorcerer		Warlock		Valewalker																				
+	Theurgist		Warrior		Vampiir																				
+	Wizard		MaulerMid		Warden																				
+	MaulerAlb		Forester		MaulerHib																				
+	Acolyte		Guardian		Mystic																				
+	AlbionRogue		Mage		Naturalist																				
+	Disciple		Magician		Seer																				
+	Elementalist		MidgardRogue		Stalker																				
+	Fighter				Viking																				
+																									
+		x	ALL																						

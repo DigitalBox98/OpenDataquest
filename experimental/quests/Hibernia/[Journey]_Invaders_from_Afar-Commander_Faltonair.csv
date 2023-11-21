@@ -1,0 +1,62 @@
+V1.1.73					/\\\ Open RewardQuest ///\																				
+																									
+																									
+																									
+																									
+			Quest Name		Goal Number (A=Active/I=Inactive)	A	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I
+			[Journey] Invaders from Afar		2	Goal 1	Goal 2	Goal 3	Goal 4	Goal 5	Goal 6	Goal 7	Goal 8	Goal 9	Goal 10	Goal 11	Goal 12	Goal 13	Goal 14	Goal 15	Goal 16	Goal 17	Goal 18	Goal 19	Goal 20
+			Start = NPC (Region)		Goal Type	Kill	InteractFinish																		
+			Commander Faltonair (Tutorial)		Step No	1	2																		
+			Or Object (Region)		Repeat No	4	1																		
+					Goal NPC Name (Region)	Midgard invader (Tutorial)	Captain Inarea (Tutorial)																		
+			Start Type		Or Object Name (Region)																				
+			RewardQuest		Collect Item																				
+			Summary		Goal Journal Text	Attack and Kill 4 Midgard Invaders	Report to Captain Inarea																		
+			Travel across the bridge to the Dun Cormyra tower. Attack and kill at least 4 Midgard Invaders around the tower then report to Captain Inarea.		Goal Interact Text																				
+			Accept Text		Advance Text																				
+					X Loc	29694	28544																		
+			Finish Text		Y Loc	32041	32426																		
+			A fine job, <Player>. You have certainly proven to be a worthy fighter.\n\nPlease equip this, it's magical properties will enhance you to be more powerful, for there is more work to be done!		Zone Id	Lamfhota's Sound	Lamfhota's Sound																		
+			Level Min																						
+			1		Money	2996																			
+			Max		XP	38250																			
+			10		CLXP	0																			
+			Max count		RP	0																			
+			1		BP	0																			
+			Story Text																						
+			These Midgard invaders will not relent.They have been pressing their advance and I fear that Captain Inarea and her company of Guardians may soon be overrun. I require your help to enter the fray and dispatch a number of Midgard invaders so that we may gain the advantage before they are able to reinforce.\n\nGo forth and assist any of the Guardians in killing the Midgard invaders. If you prove to be effective, will demonstrate to you our appreciation for your support.\n\nGood luck, <Player>.																						
+			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
+			[Journey] The King's Call		Final reward	recruits_pewter_ring																			
+			Class Type / Script 		Optional reward																				
+					Optional reward nb																				
+			Timestamp																						
+			2023-11-21 18:42:55	2023-11-21 18:42:55																					
+																									
+																									
+																									
+			Classes																						
+																									
+	Albion		Midgard 		Hibernia																				
+	Armsman		Berserker		Animist																				
+	Cabalist		Bonedancer		Bainshee																				
+	Cleric		Healer		Bard																				
+	Friar		Hunter		Blademaster																				
+	Heretic		Runemaster		Champion																				
+	Infiltrator		Savage		Druid																				
+	Mercenary		Shadowblade		Eldritch																				
+	Minstrel		Shaman		Enchanter																				
+	Necromancer		Skald		Hero																				
+	Paladin		Spiritmaster		Mentalist																				
+	Reaver		Thane		Nightshade																				
+	Scout		Valkyrie		Ranger																				
+	Sorcerer		Warlock		Valewalker																				
+	Theurgist		Warrior		Vampiir																				
+	Wizard		MaulerMid		Warden																				
+	MaulerAlb		Forester		MaulerHib																				
+	Acolyte		Guardian		Mystic																				
+	AlbionRogue		Mage		Naturalist																				
+	Disciple		Magician		Seer																				
+	Elementalist		MidgardRogue		Stalker																				
+	Fighter				Viking																				
+																									
+		x	ALL																						

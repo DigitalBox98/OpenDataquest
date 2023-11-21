@@ -1,0 +1,62 @@
+V1.1.73					/\\\ Open RewardQuest ///\																				
+																									
+																									
+																									
+																									
+			Quest Name		Goal Number (A=Active/I=Inactive)	A	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I
+			[Journey] To Mag Mell		2	Goal 1	Goal 2	Goal 3	Goal 4	Goal 5	Goal 6	Goal 7	Goal 8	Goal 9	Goal 10	Goal 11	Goal 12	Goal 13	Goal 14	Goal 15	Goal 16	Goal 17	Goal 18	Goal 19	Goal 20
+			Start = NPC (Region)		Goal Type	Interact	InteractFinish																		
+			Captain Viteri (Tutorial)		Step No	1	2																		
+			Or Object (Region)		Repeat No	1	1																		
+					Goal NPC Name (Region)	Channeler Avalloc (Tutorial)	Elder Krenyn (Hibernia)																		
+			Start Type		Or Object Name (Region)																				
+			RewardQuest		Collect Item																				
+			Summary		Goal Journal Text	See Channeler Avalloc for passage to Mag Well	Speak with Elder Krenyn in Mag Mell																		
+			Speak with Channeler avaloc in lower Fintain for passage to Mag Mell where Elder Krenyn resides.		Goal Interact Text	Channeler Avalloc says, "Greetings, <Class>. Do you wish to leave Lamfhota's Sound? It is within my power to send you to Mag Mell if you would like. Just tell me when you are ready and I will send you on your way!"																			
+			Accept Text		Advance Text																				
+					X Loc	29291	29181																		
+			Finish Text		Y Loc	26678	7592																		
+			Thave been expecting you, <Player>. Welcome to Mag Mell.		Zone Id	Lamfhota's Sound	Lough Derg																		
+			Level Min																						
+			1		Money	1470																			
+			Max		XP	5120																			
+			10		CLXP	0																			
+			Max count		RP	0																			
+			1		BP	0																			
+			Story Text																						
+			The town of Fintain and it's stronghold of Dun Cormyra are deeply in your debt, Celt. The experience and abilities which you have gained here are sorely needed in other areas in Hibernia, particularly where the realm war is raging.\n\nThere is more training you must experience before you master the <Class> profession, but there is no question that you are well on your way.\n\nThe many peoples of Hibernia are here to help you, <Player> and there are many adventures that lay ahead.I send you to the capable care of Elder Krenyn, in Hibernia's glorious town of Mag Mell. Channeler Avalloc in lower Fintain will provide you with passage.\n\nThank you, <Player>. You will not be forgotten.																						
+			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
+			[Journey] A Dispatch to Fintain		Final reward																				
+			Class Type / Script 		Optional reward																				
+					Optional reward nb																				
+			Timestamp																						
+			2023-11-21 18:44:48	2023-11-21 18:44:48																					
+																									
+																									
+																									
+			Classes																						
+																									
+	Albion		Midgard 		Hibernia																				
+	Armsman		Berserker		Animist																				
+	Cabalist		Bonedancer		Bainshee																				
+	Cleric		Healer		Bard																				
+	Friar		Hunter		Blademaster																				
+	Heretic		Runemaster		Champion																				
+	Infiltrator		Savage		Druid																				
+	Mercenary		Shadowblade		Eldritch																				
+	Minstrel		Shaman		Enchanter																				
+	Necromancer		Skald		Hero																				
+	Paladin		Spiritmaster		Mentalist																				
+	Reaver		Thane		Nightshade																				
+	Scout		Valkyrie		Ranger																				
+	Sorcerer		Warlock		Valewalker																				
+	Theurgist		Warrior		Vampiir																				
+	Wizard		MaulerMid		Warden																				
+	MaulerAlb		Forester		MaulerHib																				
+	Acolyte		Guardian		Mystic																				
+	AlbionRogue		Mage		Naturalist																				
+	Disciple		Magician		Seer																				
+	Elementalist		MidgardRogue		Stalker																				
+	Fighter				Viking																				
+																									
+		x	ALL																						

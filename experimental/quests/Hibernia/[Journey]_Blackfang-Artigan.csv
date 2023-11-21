@@ -1,0 +1,62 @@
+V1.1.73					/\\\ Open RewardQuest ///\																				
+																									
+																									
+																									
+																									
+			Quest Name		Goal Number (A=Active/I=Inactive)	A	A	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I
+			[Journey] Blackfang		3	Goal 1	Goal 2	Goal 3	Goal 4	Goal 5	Goal 6	Goal 7	Goal 8	Goal 9	Goal 10	Goal 11	Goal 12	Goal 13	Goal 14	Goal 15	Goal 16	Goal 17	Goal 18	Goal 19	Goal 20
+			Start = NPC (Region)		Goal Type	Kill	Kill	InteractFinish																	
+			Artigan (Tutorial)		Step No	1	1	2																	
+			Or Object (Region)		Repeat No	3	1	1																	
+					Goal NPC Name (Region)	grey wolf (Tutorial)	Blackfang (Tutorial)	Captain Viteri (Tutorial)																	
+			Start Type		Or Object Name (Region)																				
+			RewardQuest		Collect Item																				
+			Summary		Goal Journal Text	Kill 3 Grey Wolves in the field to the northeast	Kill Blackfang the wolf mother	Report to Captain Viteri in Fintain																	
+			Travel a short distance northeast and slay 3 Grey Wolves. When this is done, dispatch Blackfang, the wolf mother. Report to Captain Viteri in Fintain when you have completed this task.		Goal Interact Text																				
+			Accept Text		Advance Text																				
+					X Loc	34104	33861	29236	0																
+			Finish Text		Y Loc	17962	17816	23517	0																
+			Ah it's <Player>, unkilled by the ravenous Blackfang.\n\n Artigan was right to vouch for you. I require no more proof of your bravery and skill.		Zone Id	Lamfhota's Sound	Lamfhota's Sound	Lamfhota's Sound																	
+			Level Min																						
+			1		Money	189																			
+			Max		XP	1450																			
+			10		CLXP	0																			
+			Max count		RP	0																			
+			1		BP	0																			
+			Story Text																						
+			We have been alerted that Lamfhota's Sound is being invaded by both Albion and Midgard forces and the Albion invaders are drawing near. I can see the crimson red sails of their ships through the trees, to the southwest. Captain Viteri has instructed me to send him qualified fighters to aid in the defense of Fintain.\n\nIcan see that you are progressing in your training, however I will not send you to engage the invaders until lam certain that you are capable of surviving in combat.\n\nThe hills to the northeast are the hunting grounds of the wolf mother Blackfang, and her brood of bloodthirsty wolves. Slaying them will be proot enough that you are prepared to pit yourself against the foes of Albion and Midgard.\n\nwhen you have completed this task, visit Captain Witeri with proof of Blackfang's death. I wish you luck, <Class>.																						
+			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
+			[Journey] Earning Glory		Final reward	recruits_mighty_bracer																			
+			Class Type / Script 		Optional reward																				
+					Optional reward nb																				
+			Timestamp																						
+			2023-11-21 18:36:33	2023-11-21 18:36:33																					
+																									
+																									
+																									
+			Classes																						
+																									
+	Albion		Midgard 		Hibernia																				
+	Armsman		Berserker		Animist																				
+	Cabalist		Bonedancer		Bainshee																				
+	Cleric		Healer		Bard																				
+	Friar		Hunter		Blademaster																				
+	Heretic		Runemaster		Champion																				
+	Infiltrator		Savage		Druid																				
+	Mercenary		Shadowblade		Eldritch																				
+	Minstrel		Shaman		Enchanter																				
+	Necromancer		Skald		Hero																				
+	Paladin		Spiritmaster		Mentalist																				
+	Reaver		Thane		Nightshade																				
+	Scout		Valkyrie		Ranger																				
+	Sorcerer		Warlock		Valewalker																				
+	Theurgist		Warrior		Vampiir																				
+	Wizard		MaulerMid		Warden																				
+	MaulerAlb		Forester		MaulerHib																				
+	Acolyte		Guardian		Mystic																				
+	AlbionRogue		Mage		Naturalist																				
+	Disciple		Magician		Seer																				
+	Elementalist		MidgardRogue		Stalker																				
+	Fighter				Viking																				
+																									
+		x	ALL																						

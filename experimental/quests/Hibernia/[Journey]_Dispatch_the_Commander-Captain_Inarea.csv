@@ -1,0 +1,62 @@
+V1.1.73					/\\\ Open RewardQuest ///\																				
+																									
+																									
+																									
+																									
+			Quest Name		Goal Number (A=Active/I=Inactive)	A	A	A	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I
+			[Journey] Dispatch the Commander		3	Goal 1	Goal 2	Goal 3	Goal 4	Goal 5	Goal 6	Goal 7	Goal 8	Goal 9	Goal 10	Goal 11	Goal 12	Goal 13	Goal 14	Goal 15	Goal 16	Goal 17	Goal 18	Goal 19	Goal 20
+			Start = NPC (Region)		Goal Type	Kill	Kill	InteractFinish																	
+			Captain Inarea (Tutorial)		Step No	1	2	3																	
+			Or Object (Region)		Repeat No	2	1	1																	
+					Goal NPC Name (Region)	Commander'Huscarl (Tutorial)	Midgard Commander (Tutorial)	Captain Inarea (Tutorial)																	
+			Start Type		Or Object Name (Region)																				
+			RewardQuest		Collect Item																				
+			Summary		Goal Journal Text	Kill the Commander's Huscarls.	Kill the Midgard Commander	Return to Captain Inarea																	
+			Travel across the bridge to the Dun Cormyra tower. Attack and kill at least 4 Midgard Invaders around the tower then report to Captain Inarea.		Goal Interact Text																				
+			Accept Text		Advance Text																				
+					X Loc	31949	32131	28500																	
+			Finish Text		Y Loc	32276	32286	32415																	
+			I must admit, was skeptical that you would meet with victory. You seem to be skilled for one so lacking in their seasons.\n\nI have another duty for you, <Player>. One of the utmost importance.		Zone Id	Lamfhota's Sound	Lamfhota's Sound	Lamfhota's Sound																	
+			Level Min																						
+			1		Money	2996																			
+			Max		XP	38250																			
+			10		CLXP	0																			
+			Max count		RP	0																			
+			1		BP	0																			
+			Story Text																						
+			A fine job with the invaders, <Player>. Now that we have regained our foothold and are maintaining a solid defensive position, we can begin to focus on more strategic targets.\n\nFor us to quell this invasion, we cannot simply eliminate the invaders, for they will be quickly reinforced. We must strike at the heart of their invasion force. To the rear of the tower, our sentries have located the Midgard Commander. It is he you must kill, but it will be no easy task.\n\nIn order to dispatch the Midgard Commander, you must first destroy the two elite Huscarls which guard him. Once they are gone, kill the Midgard Commander.\n\nReturn to me when you have completed this task.																						
+			Quest Dependencies			Slot 1	Slot 2	Slot 3	Slot 4	Slot 5	Slot 6	Slot 7	Slot 8												
+			[Journey] Invaders from Afar		Final reward	recruits_necklace_of_faith																			
+			Class Type / Script 		Optional reward																				
+					Optional reward nb																				
+			Timestamp																						
+			2023-11-21 18:38:41	2023-11-21 18:38:41																					
+																									
+																									
+																									
+			Classes																						
+																									
+	Albion		Midgard 		Hibernia																				
+	Armsman		Berserker		Animist																				
+	Cabalist		Bonedancer		Bainshee																				
+	Cleric		Healer		Bard																				
+	Friar		Hunter		Blademaster																				
+	Heretic		Runemaster		Champion																				
+	Infiltrator		Savage		Druid																				
+	Mercenary		Shadowblade		Eldritch																				
+	Minstrel		Shaman		Enchanter																				
+	Necromancer		Skald		Hero																				
+	Paladin		Spiritmaster		Mentalist																				
+	Reaver		Thane		Nightshade																				
+	Scout		Valkyrie		Ranger																				
+	Sorcerer		Warlock		Valewalker																				
+	Theurgist		Warrior		Vampiir																				
+	Wizard		MaulerMid		Warden																				
+	MaulerAlb		Forester		MaulerHib																				
+	Acolyte		Guardian		Mystic																				
+	AlbionRogue		Mage		Naturalist																				
+	Disciple		Magician		Seer																				
+	Elementalist		MidgardRogue		Stalker																				
+	Fighter				Viking																				
+																									
+		x	ALL																						
