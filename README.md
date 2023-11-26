@@ -1,5 +1,5 @@
 # OpenDataquest
-Welcome to the DOL dataquests sharing project 
+Welcome to the DOL dataquests sharing project !
 
 # How to import an existing CSV quest  
 Open the Dataquest input tool "DataQuest_Input.ods" and activate macros : <br>
